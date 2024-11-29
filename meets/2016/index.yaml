@@ -1,0 +1,9049 @@
+---
+BAR:
+  2016:
+    1:
+    - - 2016-06-18 - BAR-SRatSR
+      - Week#1 (Div 2 & 4) 2016-06-18 @ SR
+      - Dual Meet
+      - 1
+      - &1 2016-06-18
+      - &2 !ruby/object:Set
+        hash:
+          BAR: true
+          SR: true
+      - SR
+      - &3
+        - 2
+        - 4
+      - &4
+        BAR: 8.0
+        SR: 1.0
+      - &5
+        1:
+          BAR: 8.0
+          SR: 1.0
+        2:
+          BAR: 8.0
+          SR: 1.0
+        3:
+          BAR: 8.0
+          SR: 1.0
+        4:
+          BAR: 8.0
+          SR: 1.0
+        5:
+          BAR: 8.0
+          SR: 1.0
+        6:
+          BAR: 8.0
+          SR: 1.0
+        7:
+          BAR: 8.0
+          SR: 1.0
+        8:
+          BAR: 8.0
+          SR: 1.0
+        9:
+          BAR: 8.0
+          SR: 1.0
+        10:
+          BAR: 8.0
+          SR: 1.0
+        11:
+          BAR: 8.0
+          SR: 1.0
+        12:
+          BAR: 8.0
+          SR: 1.0
+        13:
+          BAR: 8.0
+          SR: 1.0
+        14:
+          BAR: 8.0
+          SR: 1.0
+        15:
+          BAR: 8.0
+          SR: 1.0
+        16:
+          BAR: 8.0
+          SR: 1.0
+        17:
+          BAR: 8.0
+          SR: 1.0
+        18:
+          BAR: 8.0
+          SR: 1.0
+        19:
+          BAR: 8.0
+          SR: 1.0
+        20:
+          BAR: 8.0
+          SR: 1.0
+        21:
+          BAR: 8.0
+          SR: 1.0
+        22:
+          BAR: 8.0
+          SR: 1.0
+        23:
+          BAR: 8.0
+          SR: 1.0
+        24:
+          BAR: 8.0
+          SR: 1.0
+        25:
+          BAR: 8.0
+          SR: 1.0
+        26:
+          BAR: 8.0
+          SR: 1.0
+        27:
+          BAR: 8.0
+          SR: 1.0
+        28:
+          BAR: 8.0
+          SR: 1.0
+        29:
+          BAR: 8.0
+          SR: 1.0
+        30:
+          BAR: 8.0
+          SR: 1.0
+        31:
+          BAR: 8.0
+          SR: 1.0
+        32:
+          BAR: 8.0
+          SR: 1.0
+        33:
+          BAR: 8.0
+          SR: 1.0
+        34:
+          BAR: 8.0
+          SR: 1.0
+        35:
+          BAR: 8.0
+          SR: 1.0
+        36:
+          BAR: 8.0
+          SR: 1.0
+        37:
+          BAR: 8.0
+          SR: 1.0
+        38:
+          BAR: 8.0
+          SR: 1.0
+        39:
+          BAR: 8.0
+          SR: 1.0
+        40:
+          BAR: 8.0
+          SR: 1.0
+        41:
+          BAR: 8.0
+          SR: 1.0
+        42:
+          BAR: 8.0
+          SR: 1.0
+        43:
+          BAR: 8.0
+          SR: 1.0
+        44:
+          BAR: 8.0
+          SR: 1.0
+        45:
+          BAR: 8.0
+          SR: 1.0
+        46:
+          BAR: 8.0
+          SR: 1.0
+        47:
+          BAR: 8.0
+          SR: 1.0
+        48:
+          BAR: 8.0
+          SR: 1.0
+        49:
+          BAR: 8.0
+          SR: 1.0
+        50:
+          BAR: 8.0
+          SR: 1.0
+        51:
+          BAR: 8.0
+          SR: 1.0
+        52:
+          BAR: 8.0
+          SR: 1.0
+        53:
+          BAR: 8.0
+          SR: 1.0
+        54:
+          BAR: 8.0
+          SR: 1.0
+        55:
+          BAR: 8.0
+          SR: 1.0
+        56:
+          BAR: 8.0
+          SR: 1.0
+        57:
+          BAR: 8.0
+          SR: 1.0
+        58:
+          BAR: 8.0
+          SR: 1.0
+        59:
+          BAR: 8.0
+          SR: 1.0
+        60:
+          BAR: 8.0
+          SR: 1.0
+        61:
+          BAR: 8.0
+          SR: 1.0
+        62:
+          BAR: 8.0
+          SR: 1.0
+        63:
+          BAR: 8.0
+          SR: 1.0
+        64:
+          BAR: 8.0
+          SR: 1.0
+        65:
+          BAR: 8.0
+          SR: 1.0
+        66:
+          BAR: 8.0
+          SR: 1.0
+        67:
+          BAR: 8.0
+          SR: 1.0
+        68:
+          BAR: 8.0
+          SR: 1.0
+    2:
+    - - 2016-06-25 - BAR-RMRatMHS
+      - Week#2 (Div 4) 2016-06-25 @ MHS
+      - Dual Meet
+      - 2
+      - &91 2016-06-25
+      - &92 !ruby/object:Set
+        hash:
+          BAR: true
+          RMR: true
+      - MHS
+      - &93
+        - 4
+      - &94
+        BAR: 271.0
+        RMR: 353.0
+      - &95
+        1:
+          BAR: 1.0
+          RMR: 8.0
+        2:
+          BAR: 5.0
+          RMR: 13.0
+        3:
+          BAR: 11.0
+          RMR: 16.0
+        4:
+          BAR: 15.0
+          RMR: 21.0
+        5:
+          BAR: 23.0
+          RMR: 22.0
+        6:
+          BAR: 27.0
+          RMR: 27.0
+        7:
+          BAR: 29.0
+          RMR: 34.0
+        8:
+          BAR: 29.0
+          RMR: 43.0
+        9:
+          BAR: 37.0
+          RMR: 44.0
+        10:
+          BAR: 38.0
+          RMR: 52.0
+        11:
+          BAR: 44.0
+          RMR: 55.0
+        12:
+          BAR: 45.0
+          RMR: 63.0
+        13:
+          BAR: 48.0
+          RMR: 69.0
+        14:
+          BAR: 52.0
+          RMR: 74.0
+        15:
+          BAR: 58.0
+          RMR: 77.0
+        16:
+          BAR: 66.0
+          RMR: 78.0
+        17:
+          BAR: 71.0
+          RMR: 78.0
+        18:
+          BAR: 74.0
+          RMR: 84.0
+        19:
+          BAR: 77.0
+          RMR: 89.0
+        20:
+          BAR: 77.0
+          RMR: 98.0
+        21:
+          BAR: 78.0
+          RMR: 106.0
+        22:
+          BAR: 81.0
+          RMR: 112.0
+        23:
+          BAR: 87.0
+          RMR: 115.0
+        24:
+          BAR: 90.0
+          RMR: 121.0
+        25:
+          BAR: 91.0
+          RMR: 129.0
+        26:
+          BAR: 95.0
+          RMR: 134.0
+        27:
+          BAR: 104.0
+          RMR: 134.0
+        28:
+          BAR: 105.0
+          RMR: 142.0
+        29:
+          BAR: 113.0
+          RMR: 143.0
+        30:
+          BAR: 121.0
+          RMR: 143.0
+        31:
+          BAR: 125.0
+          RMR: 153.0
+        32:
+          BAR: 135.0
+          RMR: 157.0
+        33:
+          BAR: 141.0
+          RMR: 165.0
+        34:
+          BAR: 145.0
+          RMR: 173.0
+        35:
+          BAR: 146.0
+          RMR: 181.0
+        36:
+          BAR: 147.0
+          RMR: 189.0
+        37:
+          BAR: 153.0
+          RMR: 192.0
+        38:
+          BAR: 158.0
+          RMR: 196.0
+        39:
+          BAR: 164.0
+          RMR: 199.0
+        40:
+          BAR: 170.0
+          RMR: 202.0
+        41:
+          BAR: 174.0
+          RMR: 207.0
+        42:
+          BAR: 174.0
+          RMR: 216.0
+        43:
+          BAR: 182.0
+          RMR: 217.0
+        44:
+          BAR: 185.0
+          RMR: 223.0
+        45:
+          BAR: 188.0
+          RMR: 228.0
+        46:
+          BAR: 189.0
+          RMR: 236.0
+        47:
+          BAR: 189.0
+          RMR: 245.0
+        48:
+          BAR: 195.0
+          RMR: 248.0
+        49:
+          BAR: 199.0
+          RMR: 253.0
+        50:
+          BAR: 202.0
+          RMR: 259.0
+        51:
+          BAR: 207.0
+          RMR: 263.0
+        52:
+          BAR: 215.0
+          RMR: 264.0
+        53:
+          BAR: 221.0
+          RMR: 267.0
+        54:
+          BAR: 221.0
+          RMR: 276.0
+        55:
+          BAR: 227.0
+          RMR: 279.0
+        56:
+          BAR: 227.0
+          RMR: 288.0
+        57:
+          BAR: 230.0
+          RMR: 294.0
+        58:
+          BAR: 234.0
+          RMR: 299.0
+        59:
+          BAR: 239.0
+          RMR: 302.0
+        60:
+          BAR: 244.0
+          RMR: 302.0
+        61:
+          BAR: 248.0
+          RMR: 307.0
+        62:
+          BAR: 251.0
+          RMR: 313.0
+        63:
+          BAR: 252.0
+          RMR: 321.0
+        64:
+          BAR: 253.0
+          RMR: 329.0
+        65:
+          BAR: 258.0
+          RMR: 329.0
+        66:
+          BAR: 263.0
+          RMR: 333.0
+        67:
+          BAR: 267.0
+          RMR: 343.0
+        68:
+          BAR: 271.0
+          RMR: 353.0
+    4:
+    - - 2016-07-09 - BAR-DBatMHS
+      - Week#4 (Div 4) 2016-07-09 @ MHS
+      - Dual Meet
+      - 4
+      - &46 2016-07-09
+      - &47 !ruby/object:Set
+        hash:
+          BAR: true
+          DB: true
+      - MHS
+      - &48
+        - 4
+      - &49
+        BAR: 369.0
+        DB: 263.0
+      - &50
+        1:
+          BAR: 4.0
+          DB: 5.0
+        2:
+          BAR: 13.0
+          DB: 5.0
+        3:
+          BAR: 17.0
+          DB: 10.0
+        4:
+          BAR: 25.0
+          DB: 11.0
+        5:
+          BAR: 28.0
+          DB: 17.0
+        6:
+          BAR: 36.0
+          DB: 18.0
+        7:
+          BAR: 36.0
+          DB: 27.0
+        8:
+          BAR: 45.0
+          DB: 27.0
+        9:
+          BAR: 51.0
+          DB: 30.0
+        10:
+          BAR: 56.0
+          DB: 34.0
+        11:
+          BAR: 64.0
+          DB: 35.0
+        12:
+          BAR: 67.0
+          DB: 41.0
+        13:
+          BAR: 73.0
+          DB: 44.0
+        14:
+          BAR: 82.0
+          DB: 44.0
+        15:
+          BAR: 86.0
+          DB: 49.0
+        16:
+          BAR: 91.0
+          DB: 53.0
+        17:
+          BAR: 99.0
+          DB: 53.0
+        18:
+          BAR: 107.0
+          DB: 54.0
+        19:
+          BAR: 111.0
+          DB: 59.0
+        20:
+          BAR: 116.0
+          DB: 63.0
+        21:
+          BAR: 122.0
+          DB: 66.0
+        22:
+          BAR: 127.0
+          DB: 70.0
+        23:
+          BAR: 133.0
+          DB: 73.0
+        24:
+          BAR: 136.0
+          DB: 79.0
+        25:
+          BAR: 140.0
+          DB: 84.0
+        26:
+          BAR: 144.0
+          DB: 89.0
+        27:
+          BAR: 150.0
+          DB: 92.0
+        28:
+          BAR: 159.0
+          DB: 92.0
+        29:
+          BAR: 167.0
+          DB: 93.0
+        30:
+          BAR: 175.0
+          DB: 94.0
+        31:
+          BAR: 187.0
+          DB: 96.0
+        32:
+          BAR: 195.0
+          DB: 102.0
+        33:
+          BAR: 199.0
+          DB: 112.0
+        34:
+          BAR: 209.0
+          DB: 116.0
+        35:
+          BAR: 218.0
+          DB: 116.0
+        36:
+          BAR: 224.0
+          DB: 119.0
+        37:
+          BAR: 227.0
+          DB: 125.0
+        38:
+          BAR: 232.0
+          DB: 129.0
+        39:
+          BAR: 235.0
+          DB: 135.0
+        40:
+          BAR: 239.0
+          DB: 140.0
+        41:
+          BAR: 240.0
+          DB: 148.0
+        42:
+          BAR: 245.0
+          DB: 152.0
+        43:
+          BAR: 253.0
+          DB: 153.0
+        44:
+          BAR: 258.0
+          DB: 157.0
+        45:
+          BAR: 263.0
+          DB: 160.0
+        46:
+          BAR: 268.0
+          DB: 160.0
+        47:
+          BAR: 272.0
+          DB: 165.0
+        48:
+          BAR: 281.0
+          DB: 165.0
+        49:
+          BAR: 281.0
+          DB: 174.0
+        50:
+          BAR: 286.0
+          DB: 178.0
+        51:
+          BAR: 287.0
+          DB: 186.0
+        52:
+          BAR: 296.0
+          DB: 186.0
+        53:
+          BAR: 300.0
+          DB: 191.0
+        54:
+          BAR: 303.0
+          DB: 197.0
+        55:
+          BAR: 312.0
+          DB: 197.0
+        56:
+          BAR: 318.0
+          DB: 200.0
+        57:
+          BAR: 323.0
+          DB: 204.0
+        58:
+          BAR: 332.0
+          DB: 204.0
+        59:
+          BAR: 336.0
+          DB: 209.0
+        60:
+          BAR: 340.0
+          DB: 214.0
+        61:
+          BAR: 344.0
+          DB: 219.0
+        62:
+          BAR: 352.0
+          DB: 220.0
+        63:
+          BAR: 355.0
+          DB: 226.0
+        64:
+          BAR: 361.0
+          DB: 229.0
+        65:
+          BAR: 366.0
+          DB: 229.0
+        66:
+          BAR: 367.0
+          DB: 237.0
+        67:
+          BAR: 369.0
+          DB: 249.0
+        68:
+          BAR: 369.0
+          DB: 263.0
+    5:
+    - - 2016-07-16 - BAR-PVYAatBSW
+      - Week#5 (Div 4) 2016-07-16 @ BSW
+      - Dual Meet
+      - 5
+      - &111 2016-07-16
+      - &112 !ruby/object:Set
+        hash:
+          BAR: true
+          PVYA: true
+      - BSW
+      - &113
+        - 4
+      - &114
+        BAR: 411.0
+        PVYA: 205.0
+      - &115
+        1:
+          BAR: 3.0
+          PVYA: 6.0
+        2:
+          BAR: 12.0
+          PVYA: 6.0
+        3:
+          BAR: 21.0
+          PVYA: 6.0
+        4:
+          BAR: 27.0
+          PVYA: 9.0
+        5:
+          BAR: 35.0
+          PVYA: 10.0
+        6:
+          BAR: 39.0
+          PVYA: 15.0
+        7:
+          BAR: 48.0
+          PVYA: 15.0
+        8:
+          BAR: 54.0
+          PVYA: 18.0
+        9:
+          BAR: 60.0
+          PVYA: 21.0
+        10:
+          BAR: 64.0
+          PVYA: 26.0
+        11:
+          BAR: 64.0
+          PVYA: 35.0
+        12:
+          BAR: 67.0
+          PVYA: 41.0
+        13:
+          BAR: 70.0
+          PVYA: 46.0
+        14:
+          BAR: 78.0
+          PVYA: 47.0
+        15:
+          BAR: 82.0
+          PVYA: 52.0
+        16:
+          BAR: 85.0
+          PVYA: 57.0
+        17:
+          BAR: 89.0
+          PVYA: 62.0
+        18:
+          BAR: 98.0
+          PVYA: 62.0
+        19:
+          BAR: 102.0
+          PVYA: 67.0
+        20:
+          BAR: 107.0
+          PVYA: 71.0
+        21:
+          BAR: 115.0
+          PVYA: 71.0
+        22:
+          BAR: 120.0
+          PVYA: 75.0
+        23:
+          BAR: 129.0
+          PVYA: 75.0
+        24:
+          BAR: 129.0
+          PVYA: 84.0
+        25:
+          BAR: 137.0
+          PVYA: 85.0
+        26:
+          BAR: 146.0
+          PVYA: 85.0
+        27:
+          BAR: 150.0
+          PVYA: 90.0
+        28:
+          BAR: 155.0
+          PVYA: 94.0
+        29:
+          BAR: 163.0
+          PVYA: 95.0
+        30:
+          BAR: 168.0
+          PVYA: 98.0
+        31:
+          BAR: 180.0
+          PVYA: 100.0
+        32:
+          BAR: 190.0
+          PVYA: 104.0
+        33:
+          BAR: 202.0
+          PVYA: 106.0
+        34:
+          BAR: 210.0
+          PVYA: 110.0
+        35:
+          BAR: 214.0
+          PVYA: 115.0
+        36:
+          BAR: 219.0
+          PVYA: 115.0
+        37:
+          BAR: 223.0
+          PVYA: 120.0
+        38:
+          BAR: 223.0
+          PVYA: 129.0
+        39:
+          BAR: 228.0
+          PVYA: 133.0
+        40:
+          BAR: 236.0
+          PVYA: 134.0
+        41:
+          BAR: 245.0
+          PVYA: 134.0
+        42:
+          BAR: 248.0
+          PVYA: 140.0
+        43:
+          BAR: 253.0
+          PVYA: 144.0
+        44:
+          BAR: 258.0
+          PVYA: 148.0
+        45:
+          BAR: 259.0
+          PVYA: 156.0
+        46:
+          BAR: 262.0
+          PVYA: 162.0
+        47:
+          BAR: 268.0
+          PVYA: 165.0
+        48:
+          BAR: 276.0
+          PVYA: 166.0
+        49:
+          BAR: 280.0
+          PVYA: 171.0
+        50:
+          BAR: 285.0
+          PVYA: 171.0
+        51:
+          BAR: 289.0
+          PVYA: 176.0
+        52:
+          BAR: 298.0
+          PVYA: 176.0
+        53:
+          BAR: 306.0
+          PVYA: 177.0
+        54:
+          BAR: 314.0
+          PVYA: 178.0
+        55:
+          BAR: 320.0
+          PVYA: 181.0
+        56:
+          BAR: 323.0
+          PVYA: 187.0
+        57:
+          BAR: 327.0
+          PVYA: 192.0
+        58:
+          BAR: 336.0
+          PVYA: 192.0
+        59:
+          BAR: 344.0
+          PVYA: 192.0
+        60:
+          BAR: 349.0
+          PVYA: 192.0
+        61:
+          BAR: 357.0
+          PVYA: 192.0
+        62:
+          BAR: 365.0
+          PVYA: 193.0
+        63:
+          BAR: 365.0
+          PVYA: 198.0
+        64:
+          BAR: 374.0
+          PVYA: 198.0
+        65:
+          BAR: 382.0
+          PVYA: 198.0
+        66:
+          BAR: 387.0
+          PVYA: 201.0
+        67:
+          BAR: 399.0
+          PVYA: 203.0
+        68:
+          BAR: 411.0
+          PVYA: 205.0
+    6:
+    - - 2016-07-23 - RMR-BAR-DB-PVYAatMHS
+      - Week#6 2016-07-23 Meet @ MHS
+      - Divisional Meet
+      - 6
+      - &51 2016-07-23
+      - &52 !ruby/object:Set
+        hash:
+          RMR: true
+          BAR: true
+          DB: true
+          PVYA: true
+      - MHS
+      - &53
+        - 4
+      - &54
+        RMR: 513.0
+        BAR: 421.0
+        DB: 380.5
+        PVYA: 164.5
+      - &55
+        1:
+          RMR: 8.0
+          BAR: 5.0
+          DB: 4.0
+          PVYA: 5.0
+        2:
+          RMR: 17.0
+          BAR: 17.0
+          DB: 5.0
+          PVYA: 5.0
+        3:
+          RMR: 19.0
+          BAR: 26.0
+          DB: 15.0
+          PVYA: 6.0
+        4:
+          RMR: 29.0
+          BAR: 33.0
+          DB: 16.0
+          PVYA: 10.0
+        5:
+          RMR: 35.0
+          BAR: 34.0
+          DB: 31.0
+          PVYA: 10.0
+        6:
+          RMR: 50.5
+          BAR: 35.0
+          DB: 33.0
+          PVYA: 13.5
+        7:
+          RMR: 50.5
+          BAR: 42.0
+          DB: 41.0
+          PVYA: 20.5
+        8:
+          RMR: 57.5
+          BAR: 50.0
+          DB: 44.0
+          PVYA: 24.5
+        9:
+          RMR: 63.5
+          BAR: 58.0
+          DB: 52.0
+          PVYA: 24.5
+        10:
+          RMR: 66.5
+          BAR: 62.0
+          DB: 62.0
+          PVYA: 29.5
+        11:
+          RMR: 67.5
+          BAR: 65.0
+          DB: 68.0
+          PVYA: 41.5
+        12:
+          RMR: 77.5
+          BAR: 67.0
+          DB: 68.0
+          PVYA: 51.5
+        13:
+          RMR: 91.5
+          BAR: 71.0
+          DB: 68.0
+          PVYA: 55.5
+        14:
+          RMR: 99.5
+          BAR: 77.0
+          DB: 75.0
+          PVYA: 56.5
+        15:
+          RMR: 104.5
+          BAR: 77.0
+          DB: 86.0
+          PVYA: 56.5
+        16:
+          RMR: 111.5
+          BAR: 80.0
+          DB: 94.0
+          PVYA: 60.5
+        17:
+          RMR: 120.5
+          BAR: 82.0
+          DB: 105.0
+          PVYA: 60.5
+        18:
+          RMR: 130.5
+          BAR: 93.0
+          DB: 106.0
+          PVYA: 60.5
+        19:
+          RMR: 133.5
+          BAR: 97.0
+          DB: 111.0
+          PVYA: 67.5
+        20:
+          RMR: 141.5
+          BAR: 106.0
+          DB: 113.0
+          PVYA: 70.5
+        21:
+          RMR: 150.5
+          BAR: 117.0
+          DB: 115.0
+          PVYA: 70.5
+        22:
+          RMR: 160.5
+          BAR: 126.0
+          DB: 117.0
+          PVYA: 71.5
+        23:
+          RMR: 163.5
+          BAR: 132.0
+          DB: 130.0
+          PVYA: 71.5
+        24:
+          RMR: 169.5
+          BAR: 136.0
+          DB: 137.0
+          PVYA: 76.5
+        25:
+          RMR: 174.5
+          BAR: 139.0
+          DB: 151.0
+          PVYA: 76.5
+        26:
+          RMR: 184.5
+          BAR: 143.0
+          DB: 157.0
+          PVYA: 78.5
+        27:
+          RMR: 184.5
+          BAR: 157.0
+          DB: 158.0
+          PVYA: 85.5
+        28:
+          RMR: 192.5
+          BAR: 161.0
+          DB: 158.0
+          PVYA: 95.5
+        29:
+          RMR: 192.5
+          BAR: 172.0
+          DB: 166.0
+          PVYA: 95.5
+        30:
+          RMR: 196.5
+          BAR: 184.0
+          DB: 168.0
+          PVYA: 99.5
+        31:
+          RMR: 208.5
+          BAR: 191.0
+          DB: 172.0
+          PVYA: 99.5
+        32:
+          RMR: 218.5
+          BAR: 200.0
+          DB: 176.0
+          PVYA: 99.5
+        33:
+          RMR: 228.5
+          BAR: 209.0
+          DB: 180.0
+          PVYA: 99.5
+        34:
+          RMR: 235.5
+          BAR: 219.0
+          DB: 184.0
+          PVYA: 101.5
+        35:
+          RMR: 249.5
+          BAR: 223.0
+          DB: 184.0
+          PVYA: 105.5
+        36:
+          RMR: 257.5
+          BAR: 224.0
+          DB: 195.0
+          PVYA: 107.5
+        37:
+          RMR: 264.5
+          BAR: 229.0
+          DB: 205.0
+          PVYA: 107.5
+        38:
+          RMR: 271.5
+          BAR: 233.0
+          DB: 212.0
+          PVYA: 111.5
+        39:
+          RMR: 278.5
+          BAR: 244.0
+          DB: 213.0
+          PVYA: 114.5
+        40:
+          RMR: 283.5
+          BAR: 249.0
+          DB: 223.0
+          PVYA: 116.5
+        41:
+          RMR: 290.5
+          BAR: 258.0
+          DB: 229.0
+          PVYA: 116.5
+        42:
+          RMR: 299.0
+          BAR: 260.0
+          DB: 240.5
+          PVYA: 116.5
+        43:
+          RMR: 309.0
+          BAR: 267.0
+          DB: 244.5
+          PVYA: 117.5
+        44:
+          RMR: 322.0
+          BAR: 270.0
+          DB: 250.5
+          PVYA: 117.5
+        45:
+          RMR: 326.0
+          BAR: 275.0
+          DB: 252.5
+          PVYA: 127.5
+        46:
+          RMR: 340.0
+          BAR: 279.0
+          DB: 252.5
+          PVYA: 130.5
+        47:
+          RMR: 353.0
+          BAR: 285.0
+          DB: 255.5
+          PVYA: 130.5
+        48:
+          RMR: 363.0
+          BAR: 288.0
+          DB: 264.5
+          PVYA: 130.5
+        49:
+          RMR: 370.0
+          BAR: 292.0
+          DB: 272.5
+          PVYA: 133.5
+        50:
+          RMR: 380.0
+          BAR: 292.0
+          DB: 279.5
+          PVYA: 138.5
+        51:
+          RMR: 385.0
+          BAR: 297.0
+          DB: 290.5
+          PVYA: 139.5
+        52:
+          RMR: 389.0
+          BAR: 312.0
+          DB: 291.5
+          PVYA: 141.5
+        53:
+          RMR: 394.0
+          BAR: 318.0
+          DB: 302.5
+          PVYA: 141.5
+        54:
+          RMR: 406.0
+          BAR: 319.0
+          DB: 307.5
+          PVYA: 145.5
+        55:
+          RMR: 413.0
+          BAR: 328.0
+          DB: 312.5
+          PVYA: 146.5
+        56:
+          RMR: 413.0
+          BAR: 335.0
+          DB: 320.5
+          PVYA: 153.5
+        57:
+          RMR: 427.0
+          BAR: 339.0
+          DB: 324.5
+          PVYA: 153.5
+        58:
+          RMR: 439.0
+          BAR: 349.0
+          DB: 324.5
+          PVYA: 153.5
+        59:
+          RMR: 446.0
+          BAR: 358.0
+          DB: 327.5
+          PVYA: 156.5
+        60:
+          RMR: 457.0
+          BAR: 363.0
+          DB: 330.5
+          PVYA: 159.5
+        61:
+          RMR: 461.0
+          BAR: 371.0
+          DB: 337.5
+          PVYA: 159.5
+        62:
+          RMR: 463.0
+          BAR: 382.0
+          DB: 346.5
+          PVYA: 159.5
+        63:
+          RMR: 478.0
+          BAR: 387.0
+          DB: 348.5
+          PVYA: 159.5
+        64:
+          RMR: 490.0
+          BAR: 394.0
+          DB: 349.5
+          PVYA: 161.5
+        65:
+          RMR: 490.0
+          BAR: 410.0
+          DB: 349.5
+          PVYA: 161.5
+        66:
+          RMR: 491.0
+          BAR: 415.0
+          DB: 362.5
+          PVYA: 164.5
+        67:
+          RMR: 501.0
+          BAR: 421.0
+          DB: 369.5
+          PVYA: 164.5
+        68:
+          RMR: 513.0
+          BAR: 421.0
+          DB: 380.5
+          PVYA: 164.5
+    7:
+    - - 2016-07-30 - BAR-CH-DB-FCY-HHCC-HC-LL-PVYA-RSST-RMR-SR-VOU-WRST-WKWatLL
+      - Week#7 2016-07-30 All Star Meet @ LL
+      - All Star Meet
+      - 7
+      - &6 2016-07-30
+      - &7 !ruby/object:Set
+        hash:
+          BAR: true
+          CH: true
+          DB: true
+          FCY: true
+          HHCC: true
+          HC: true
+          LL: true
+          PVYA: true
+          RSST: true
+          RMR: true
+          SR: true
+          VOU: true
+          WRST: true
+          WKW: true
+      - LL
+      - &8
+        - 1
+        - 2
+        - 3
+        - 4
+      - &9
+        FCY: 0.0
+        LL: 0.0
+        RSST: 0.0
+        RMR: 0.0
+        SR: 0.0
+        WKW: 0.0
+        BAR: 0.0
+        HHCC: 0.0
+        HC: 0.0
+        VOU: 0.0
+        WRST: 0.0
+        CH: 0.0
+        DB: 0.0
+        PVYA: 0.0
+      - &10
+        1:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+        2:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+        3:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+        4:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+        5:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+        6:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        7:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        8:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        9:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        10:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        11:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        12:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        13:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        14:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        15:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        16:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        17:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        18:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        19:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        20:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        21:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        22:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        23:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        24:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        25:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        26:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        27:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        28:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        29:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        30:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        35:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        36:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        37:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        38:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        39:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        40:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        41:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        42:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        43:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        44:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        45:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        46:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        47:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        48:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        49:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        50:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        51:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        52:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        53:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        54:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        55:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        56:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        57:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        58:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        59:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        60:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        61:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        62:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        63:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        64:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        65:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+        66:
+          FCY: 0.0
+          LL: 0.0
+          RSST: 0.0
+          RMR: 0.0
+          SR: 0.0
+          WKW: 0.0
+          BAR: 0.0
+          HHCC: 0.0
+          HC: 0.0
+          VOU: 0.0
+          WRST: 0.0
+          CH: 0.0
+          DB: 0.0
+          PVYA: 0.0
+SR:
+  2016:
+    1:
+    - - 2016-06-18 - BAR-SRatSR
+      - Week#1 (Div 2 & 4) 2016-06-18 @ SR
+      - Dual Meet
+      - 1
+      - *1
+      - *2
+      - SR
+      - *3
+      - *4
+      - *5
+    2:
+    - - 2016-06-25 - HHCC-SRatHHCC
+      - Week#2 (Div 1 & 2) 2016-06-25 @ HHCC
+      - Dual Meet
+      - 2
+      - &16 2016-06-25
+      - &17 !ruby/object:Set
+        hash:
+          HHCC: true
+          SR: true
+      - HHCC
+      - &18
+        - 1
+        - 2
+      - &19
+        SR: 0.0
+        HHCC: 0.0
+      - &20
+        1:
+          SR: 0.0
+          HHCC: 0.0
+        2:
+          SR: 0.0
+          HHCC: 0.0
+        3:
+          SR: 0.0
+          HHCC: 0.0
+        4:
+          SR: 0.0
+          HHCC: 0.0
+        5:
+          SR: 0.0
+          HHCC: 0.0
+        6:
+          SR: 0.0
+          HHCC: 0.0
+        7:
+          SR: 0.0
+          HHCC: 0.0
+        8:
+          SR: 0.0
+          HHCC: 0.0
+        9:
+          SR: 0.0
+          HHCC: 0.0
+        10:
+          SR: 0.0
+          HHCC: 0.0
+        11:
+          SR: 0.0
+          HHCC: 0.0
+        12:
+          SR: 0.0
+          HHCC: 0.0
+        13:
+          SR: 0.0
+          HHCC: 0.0
+        14:
+          SR: 0.0
+          HHCC: 0.0
+        15:
+          SR: 0.0
+          HHCC: 0.0
+        16:
+          SR: 0.0
+          HHCC: 0.0
+        17:
+          SR: 0.0
+          HHCC: 0.0
+        18:
+          SR: 0.0
+          HHCC: 0.0
+        19:
+          SR: 0.0
+          HHCC: 0.0
+        20:
+          SR: 0.0
+          HHCC: 0.0
+        21:
+          SR: 0.0
+          HHCC: 0.0
+        22:
+          SR: 0.0
+          HHCC: 0.0
+        23:
+          SR: 0.0
+          HHCC: 0.0
+        24:
+          SR: 0.0
+          HHCC: 0.0
+        25:
+          SR: 0.0
+          HHCC: 0.0
+        26:
+          SR: 0.0
+          HHCC: 0.0
+        27:
+          SR: 0.0
+          HHCC: 0.0
+        28:
+          SR: 0.0
+          HHCC: 0.0
+        29:
+          SR: 0.0
+          HHCC: 0.0
+        30:
+          SR: 0.0
+          HHCC: 0.0
+        31:
+          SR: 0.0
+          HHCC: 0.0
+        32:
+          SR: 0.0
+          HHCC: 0.0
+        33:
+          SR: 0.0
+          HHCC: 0.0
+        34:
+          SR: 0.0
+          HHCC: 0.0
+        35:
+          SR: 0.0
+          HHCC: 0.0
+        36:
+          SR: 0.0
+          HHCC: 0.0
+        37:
+          SR: 0.0
+          HHCC: 0.0
+        38:
+          SR: 0.0
+          HHCC: 0.0
+        39:
+          SR: 0.0
+          HHCC: 0.0
+        40:
+          SR: 0.0
+          HHCC: 0.0
+        41:
+          SR: 0.0
+          HHCC: 0.0
+        42:
+          SR: 0.0
+          HHCC: 0.0
+        43:
+          SR: 0.0
+          HHCC: 0.0
+        44:
+          SR: 0.0
+          HHCC: 0.0
+        45:
+          SR: 0.0
+          HHCC: 0.0
+        46:
+          SR: 0.0
+          HHCC: 0.0
+        47:
+          SR: 0.0
+          HHCC: 0.0
+        48:
+          SR: 0.0
+          HHCC: 0.0
+        49:
+          SR: 0.0
+          HHCC: 0.0
+        50:
+          SR: 0.0
+          HHCC: 0.0
+        51:
+          SR: 0.0
+          HHCC: 0.0
+        52:
+          SR: 0.0
+          HHCC: 0.0
+        53:
+          SR: 0.0
+          HHCC: 0.0
+        54:
+          SR: 0.0
+          HHCC: 0.0
+        55:
+          SR: 0.0
+          HHCC: 0.0
+        56:
+          SR: 0.0
+          HHCC: 0.0
+        57:
+          SR: 0.0
+          HHCC: 0.0
+        58:
+          SR: 0.0
+          HHCC: 0.0
+        59:
+          SR: 0.0
+          HHCC: 0.0
+        60:
+          SR: 0.0
+          HHCC: 0.0
+        61:
+          SR: 0.0
+          HHCC: 0.0
+        62:
+          SR: 0.0
+          HHCC: 0.0
+        63:
+          SR: 0.0
+          HHCC: 0.0
+        64:
+          SR: 0.0
+          HHCC: 0.0
+        65:
+          SR: 0.0
+          HHCC: 0.0
+        66:
+          SR: 0.0
+          HHCC: 0.0
+        67:
+          SR: 0.0
+          HHCC: 0.0
+        68:
+          SR: 0.0
+          HHCC: 0.0
+    4:
+    - - 2016-07-09 - RSST-SRatSR
+      - Week#4 (Div 2) 2016-07-09 @ SR
+      - Dual Meet
+      - 4
+      - &61 2016-07-09
+      - &62 !ruby/object:Set
+        hash:
+          RSST: true
+          SR: true
+      - SR
+      - &63
+        - 2
+      - &64
+        RSST: 313.0
+        SR: 321.0
+      - &65
+        1:
+          RSST: 5.0
+          SR: 4.0
+        2:
+          RSST: 8.0
+          SR: 10.0
+        3:
+          RSST: 8.0
+          SR: 19.0
+        4:
+          RSST: 12.0
+          SR: 24.0
+        5:
+          RSST: 12.0
+          SR: 33.0
+        6:
+          RSST: 15.0
+          SR: 39.0
+        7:
+          RSST: 24.0
+          SR: 39.0
+        8:
+          RSST: 25.0
+          SR: 47.0
+        9:
+          RSST: 26.0
+          SR: 55.0
+        10:
+          RSST: 26.0
+          SR: 64.0
+        11:
+          RSST: 31.0
+          SR: 68.0
+        12:
+          RSST: 39.0
+          SR: 69.0
+        13:
+          RSST: 45.0
+          SR: 72.0
+        14:
+          RSST: 50.0
+          SR: 76.0
+        15:
+          RSST: 53.0
+          SR: 81.0
+        16:
+          RSST: 57.0
+          SR: 86.0
+        17:
+          RSST: 62.0
+          SR: 90.0
+        18:
+          RSST: 70.0
+          SR: 91.0
+        19:
+          RSST: 76.0
+          SR: 94.0
+        20:
+          RSST: 81.0
+          SR: 98.0
+        21:
+          RSST: 89.0
+          SR: 99.0
+        22:
+          RSST: 95.0
+          SR: 102.0
+        23:
+          RSST: 101.0
+          SR: 105.0
+        24:
+          RSST: 110.0
+          SR: 105.0
+        25:
+          RSST: 118.0
+          SR: 106.0
+        26:
+          RSST: 124.0
+          SR: 109.0
+        27:
+          RSST: 128.0
+          SR: 114.0
+        28:
+          RSST: 132.0
+          SR: 119.0
+        29:
+          RSST: 132.0
+          SR: 124.0
+        30:
+          RSST: 132.0
+          SR: 133.0
+        31:
+          RSST: 142.0
+          SR: 137.0
+        32:
+          RSST: 150.0
+          SR: 143.0
+        33:
+          RSST: 160.0
+          SR: 147.0
+        34:
+          RSST: 160.0
+          SR: 159.0
+        35:
+          RSST: 164.0
+          SR: 164.0
+        36:
+          RSST: 168.0
+          SR: 169.0
+        37:
+          RSST: 171.0
+          SR: 175.0
+        38:
+          RSST: 180.0
+          SR: 175.0
+        39:
+          RSST: 188.0
+          SR: 176.0
+        40:
+          RSST: 192.0
+          SR: 181.0
+        41:
+          RSST: 198.0
+          SR: 184.0
+        42:
+          RSST: 204.0
+          SR: 187.0
+        43:
+          RSST: 208.0
+          SR: 192.0
+        44:
+          RSST: 208.0
+          SR: 201.0
+        45:
+          RSST: 208.0
+          SR: 210.0
+        46:
+          RSST: 213.0
+          SR: 214.0
+        47:
+          RSST: 219.0
+          SR: 217.0
+        48:
+          RSST: 223.0
+          SR: 222.0
+        49:
+          RSST: 226.0
+          SR: 228.0
+        50:
+          RSST: 232.0
+          SR: 231.0
+        51:
+          RSST: 241.0
+          SR: 231.0
+        52:
+          RSST: 244.0
+          SR: 237.0
+        53:
+          RSST: 253.0
+          SR: 237.0
+        54:
+          RSST: 259.0
+          SR: 240.0
+        55:
+          RSST: 260.0
+          SR: 248.0
+        56:
+          RSST: 260.0
+          SR: 257.0
+        57:
+          RSST: 265.0
+          SR: 260.0
+        58:
+          RSST: 271.0
+          SR: 263.0
+        59:
+          RSST: 272.0
+          SR: 271.0
+        60:
+          RSST: 276.0
+          SR: 276.0
+        61:
+          RSST: 281.0
+          SR: 280.0
+        62:
+          RSST: 285.0
+          SR: 285.0
+        63:
+          RSST: 289.0
+          SR: 290.0
+        64:
+          RSST: 294.0
+          SR: 294.0
+        65:
+          RSST: 297.0
+          SR: 300.0
+        66:
+          RSST: 297.0
+          SR: 309.0
+        67:
+          RSST: 307.0
+          SR: 313.0
+        68:
+          RSST: 313.0
+          SR: 321.0
+    5:
+    - - 2016-07-16 - HC-SRatHC
+      - Week#5 (Div 2) 2016-07-16 @ HC
+      - Dual Meet
+      - 5
+      - &81 2016-07-16
+      - &82 !ruby/object:Set
+        hash:
+          HC: true
+          SR: true
+      - HC
+      - &83
+        - 2
+      - &84
+        HC: 300.0
+        SR: 342.0
+      - &85
+        1:
+          HC: 0.0
+          SR: 9.0
+        2:
+          HC: 6.0
+          SR: 12.0
+        3:
+          HC: 12.0
+          SR: 15.0
+        4:
+          HC: 13.0
+          SR: 23.0
+        5:
+          HC: 19.0
+          SR: 26.0
+        6:
+          HC: 22.0
+          SR: 32.0
+        7:
+          HC: 31.0
+          SR: 32.0
+        8:
+          HC: 36.0
+          SR: 36.0
+        9:
+          HC: 44.0
+          SR: 37.0
+        10:
+          HC: 48.0
+          SR: 42.0
+        11:
+          HC: 53.0
+          SR: 46.0
+        12:
+          HC: 56.0
+          SR: 52.0
+        13:
+          HC: 59.0
+          SR: 58.0
+        14:
+          HC: 65.0
+          SR: 61.0
+        15:
+          HC: 70.0
+          SR: 65.0
+        16:
+          HC: 70.0
+          SR: 74.0
+        17:
+          HC: 75.0
+          SR: 78.0
+        18:
+          HC: 79.0
+          SR: 83.0
+        19:
+          HC: 88.0
+          SR: 83.0
+        20:
+          HC: 91.0
+          SR: 89.0
+        21:
+          HC: 97.0
+          SR: 92.0
+        22:
+          HC: 101.0
+          SR: 97.0
+        23:
+          HC: 104.0
+          SR: 103.0
+        24:
+          HC: 105.0
+          SR: 111.0
+        25:
+          HC: 111.0
+          SR: 114.0
+        26:
+          HC: 114.0
+          SR: 120.0
+        27:
+          HC: 118.0
+          SR: 125.0
+        28:
+          HC: 121.0
+          SR: 131.0
+        29:
+          HC: 124.0
+          SR: 137.0
+        30:
+          HC: 127.0
+          SR: 143.0
+        31:
+          HC: 135.0
+          SR: 149.0
+        32:
+          HC: 139.0
+          SR: 159.0
+        33:
+          HC: 147.0
+          SR: 165.0
+        34:
+          HC: 151.0
+          SR: 175.0
+        35:
+          HC: 155.0
+          SR: 180.0
+        36:
+          HC: 161.0
+          SR: 183.0
+        37:
+          HC: 166.0
+          SR: 187.0
+        38:
+          HC: 167.0
+          SR: 195.0
+        39:
+          HC: 173.0
+          SR: 198.0
+        40:
+          HC: 177.0
+          SR: 203.0
+        41:
+          HC: 183.0
+          SR: 206.0
+        42:
+          HC: 186.0
+          SR: 212.0
+        43:
+          HC: 190.0
+          SR: 217.0
+        44:
+          HC: 191.0
+          SR: 225.0
+        45:
+          HC: 194.0
+          SR: 231.0
+        46:
+          HC: 202.0
+          SR: 232.0
+        47:
+          HC: 205.0
+          SR: 238.0
+        48:
+          HC: 210.0
+          SR: 242.0
+        49:
+          HC: 216.0
+          SR: 245.0
+        50:
+          HC: 217.0
+          SR: 253.0
+        51:
+          HC: 223.0
+          SR: 256.0
+        52:
+          HC: 223.0
+          SR: 265.0
+        53:
+          HC: 232.0
+          SR: 265.0
+        54:
+          HC: 237.0
+          SR: 269.0
+        55:
+          HC: 240.0
+          SR: 275.0
+        56:
+          HC: 243.0
+          SR: 281.0
+        57:
+          HC: 248.0
+          SR: 285.0
+        58:
+          HC: 252.0
+          SR: 290.0
+        59:
+          HC: 256.0
+          SR: 295.0
+        60:
+          HC: 256.0
+          SR: 304.0
+        61:
+          HC: 260.0
+          SR: 309.0
+        62:
+          HC: 260.0
+          SR: 318.0
+        63:
+          HC: 268.0
+          SR: 319.0
+        64:
+          HC: 269.0
+          SR: 327.0
+        65:
+          HC: 275.0
+          SR: 330.0
+        66:
+          HC: 278.0
+          SR: 336.0
+        67:
+          HC: 288.0
+          SR: 340.0
+        68:
+          HC: 300.0
+          SR: 342.0
+    6:
+    - - 2016-07-23 - RSST-SR-HCatHC
+      - Week#6 2016-07-23 Meet @ HC
+      - Divisional Meet
+      - 6
+      - &71 2016-07-23
+      - &72 !ruby/object:Set
+        hash:
+          RSST: true
+          SR: true
+          HC: true
+      - HC
+      - &73
+        - 2
+      - &74
+        RSST: 520.0
+        SR: 512.0
+        HC: 461.0
+      - &75
+        1:
+          RSST: 10.0
+          SR: 7.0
+          HC: 5.0
+        2:
+          RSST: 17.0
+          SR: 10.0
+          HC: 17.0
+        3:
+          RSST: 21.0
+          SR: 17.0
+          HC: 28.0
+        4:
+          RSST: 29.0
+          SR: 27.0
+          HC: 32.0
+        5:
+          RSST: 34.0
+          SR: 35.0
+          HC: 41.0
+        6:
+          RSST: 45.0
+          SR: 40.0
+          HC: 47.0
+        7:
+          RSST: 49.0
+          SR: 40.0
+          HC: 65.0
+        8:
+          RSST: 53.0
+          SR: 51.0
+          HC: 72.0
+        9:
+          RSST: 57.0
+          SR: 58.0
+          HC: 83.0
+        10:
+          RSST: 57.0
+          SR: 75.0
+          HC: 88.0
+        11:
+          RSST: 65.0
+          SR: 84.0
+          HC: 93.0
+        12:
+          RSST: 77.0
+          SR: 93.0
+          HC: 94.0
+        13:
+          RSST: 87.0
+          SR: 100.0
+          HC: 99.0
+        14:
+          RSST: 104.0
+          SR: 102.0
+          HC: 102.0
+        15:
+          RSST: 107.0
+          SR: 107.0
+          HC: 116.0
+        16:
+          RSST: 117.0
+          SR: 117.0
+          HC: 118.0
+        17:
+          RSST: 122.0
+          SR: 124.0
+          HC: 128.0
+        18:
+          RSST: 135.0
+          SR: 129.0
+          HC: 132.0
+        19:
+          RSST: 142.0
+          SR: 132.0
+          HC: 143.0
+        20:
+          RSST: 151.0
+          SR: 141.0
+          HC: 146.0
+        21:
+          RSST: 156.0
+          SR: 148.0
+          HC: 156.0
+        22:
+          RSST: 172.0
+          SR: 151.0
+          HC: 159.0
+        23:
+          RSST: 175.0
+          SR: 156.0
+          HC: 173.0
+        24:
+          RSST: 191.0
+          SR: 161.0
+          HC: 174.0
+        25:
+          RSST: 194.0
+          SR: 171.0
+          HC: 183.0
+        26:
+          RSST: 206.0
+          SR: 181.0
+          HC: 183.0
+        27:
+          RSST: 216.0
+          SR: 188.0
+          HC: 188.0
+        28:
+          RSST: 218.0
+          SR: 199.0
+          HC: 197.0
+        29:
+          RSST: 226.0
+          SR: 209.0
+          HC: 201.0
+        30:
+          RSST: 228.0
+          SR: 228.0
+          HC: 202.0
+        31:
+          RSST: 237.0
+          SR: 232.0
+          HC: 212.0
+        32:
+          RSST: 243.0
+          SR: 239.0
+          HC: 222.0
+        33:
+          RSST: 255.0
+          SR: 246.0
+          HC: 226.0
+        34:
+          RSST: 257.0
+          SR: 263.0
+          HC: 230.0
+        35:
+          RSST: 265.0
+          SR: 267.0
+          HC: 237.0
+        36:
+          RSST: 274.0
+          SR: 273.0
+          HC: 244.0
+        37:
+          RSST: 278.0
+          SR: 280.0
+          HC: 255.0
+        38:
+          RSST: 289.0
+          SR: 291.0
+          HC: 255.0
+        39:
+          RSST: 294.0
+          SR: 296.0
+          HC: 267.0
+        40:
+          RSST: 299.0
+          SR: 306.0
+          HC: 274.0
+        41:
+          RSST: 314.0
+          SR: 306.0
+          HC: 281.0
+        42:
+          RSST: 327.0
+          SR: 312.0
+          HC: 284.0
+        43:
+          RSST: 333.0
+          SR: 319.0
+          HC: 293.0
+        44:
+          RSST: 333.0
+          SR: 335.0
+          HC: 299.0
+        45:
+          RSST: 341.0
+          SR: 345.0
+          HC: 303.0
+        46:
+          RSST: 350.0
+          SR: 353.0
+          HC: 308.0
+        47:
+          RSST: 362.0
+          SR: 357.0
+          HC: 314.0
+        48:
+          RSST: 369.0
+          SR: 365.0
+          HC: 321.0
+        49:
+          RSST: 372.0
+          SR: 372.0
+          HC: 333.0
+        50:
+          RSST: 382.0
+          SR: 382.0
+          HC: 335.0
+        51:
+          RSST: 391.0
+          SR: 390.0
+          HC: 340.0
+        52:
+          RSST: 400.0
+          SR: 399.0
+          HC: 344.0
+        53:
+          RSST: 409.0
+          SR: 399.0
+          HC: 357.0
+        54:
+          RSST: 412.0
+          SR: 413.0
+          HC: 362.0
+        55:
+          RSST: 425.0
+          SR: 417.0
+          HC: 367.0
+        56:
+          RSST: 425.0
+          SR: 432.0
+          HC: 374.0
+        57:
+          RSST: 435.0
+          SR: 436.0
+          HC: 382.0
+        58:
+          RSST: 447.0
+          SR: 443.0
+          HC: 385.0
+        59:
+          RSST: 450.0
+          SR: 443.0
+          HC: 401.0
+        60:
+          RSST: 464.0
+          SR: 451.0
+          HC: 401.0
+        61:
+          RSST: 475.0
+          SR: 456.0
+          HC: 407.0
+        62:
+          RSST: 484.0
+          SR: 462.0
+          HC: 414.0
+        63:
+          RSST: 488.0
+          SR: 466.0
+          HC: 428.0
+        64:
+          RSST: 499.0
+          SR: 477.0
+          HC: 428.0
+        65:
+          RSST: 506.0
+          SR: 485.0
+          HC: 434.0
+        66:
+          RSST: 506.0
+          SR: 501.0
+          HC: 440.0
+        67:
+          RSST: 510.0
+          SR: 508.0
+          HC: 452.0
+        68:
+          RSST: 520.0
+          SR: 512.0
+          HC: 461.0
+    7:
+    - - 2016-07-30 - BAR-CH-DB-FCY-HHCC-HC-LL-PVYA-RSST-RMR-SR-VOU-WRST-WKWatLL
+      - Week#7 2016-07-30 All Star Meet @ LL
+      - All Star Meet
+      - 7
+      - *6
+      - *7
+      - LL
+      - *8
+      - *9
+      - *10
+FCY:
+  2016:
+    1:
+    - - 2016-06-18 - FCY-LLatLL
+      - Week#1 (Div 1 & 3) 2016-06-18 @ LL
+      - Dual Meet
+      - 1
+      - &11 2016-06-18
+      - &12 !ruby/object:Set
+        hash:
+          FCY: true
+          LL: true
+      - LL
+      - &13
+        - 1
+        - 3
+      - &14
+        FCY: 0.0
+        LL: 0.0
+      - &15
+        1:
+          FCY: 0.0
+          LL: 0.0
+        2:
+          FCY: 0.0
+          LL: 0.0
+        3:
+          FCY: 0.0
+          LL: 0.0
+        4:
+          FCY: 0.0
+          LL: 0.0
+        5:
+          FCY: 0.0
+          LL: 0.0
+        6:
+          FCY: 0.0
+          LL: 0.0
+        7:
+          FCY: 0.0
+          LL: 0.0
+        8:
+          FCY: 0.0
+          LL: 0.0
+        9:
+          FCY: 0.0
+          LL: 0.0
+        10:
+          FCY: 0.0
+          LL: 0.0
+        11:
+          FCY: 0.0
+          LL: 0.0
+        12:
+          FCY: 0.0
+          LL: 0.0
+        13:
+          FCY: 0.0
+          LL: 0.0
+        14:
+          FCY: 0.0
+          LL: 0.0
+        15:
+          FCY: 0.0
+          LL: 0.0
+        16:
+          FCY: 0.0
+          LL: 0.0
+        17:
+          FCY: 0.0
+          LL: 0.0
+        18:
+          FCY: 0.0
+          LL: 0.0
+        19:
+          FCY: 0.0
+          LL: 0.0
+        20:
+          FCY: 0.0
+          LL: 0.0
+        21:
+          FCY: 0.0
+          LL: 0.0
+        22:
+          FCY: 0.0
+          LL: 0.0
+        23:
+          FCY: 0.0
+          LL: 0.0
+        24:
+          FCY: 0.0
+          LL: 0.0
+        25:
+          FCY: 0.0
+          LL: 0.0
+        26:
+          FCY: 0.0
+          LL: 0.0
+        27:
+          FCY: 0.0
+          LL: 0.0
+        28:
+          FCY: 0.0
+          LL: 0.0
+        29:
+          FCY: 0.0
+          LL: 0.0
+        30:
+          FCY: 0.0
+          LL: 0.0
+        31:
+          FCY: 0.0
+          LL: 0.0
+        32:
+          FCY: 0.0
+          LL: 0.0
+        33:
+          FCY: 0.0
+          LL: 0.0
+        34:
+          FCY: 0.0
+          LL: 0.0
+        35:
+          FCY: 0.0
+          LL: 0.0
+        36:
+          FCY: 0.0
+          LL: 0.0
+        37:
+          FCY: 0.0
+          LL: 0.0
+        38:
+          FCY: 0.0
+          LL: 0.0
+        39:
+          FCY: 0.0
+          LL: 0.0
+        40:
+          FCY: 0.0
+          LL: 0.0
+        41:
+          FCY: 0.0
+          LL: 0.0
+        42:
+          FCY: 0.0
+          LL: 0.0
+        43:
+          FCY: 0.0
+          LL: 0.0
+        44:
+          FCY: 0.0
+          LL: 0.0
+        45:
+          FCY: 0.0
+          LL: 0.0
+        46:
+          FCY: 0.0
+          LL: 0.0
+        47:
+          FCY: 0.0
+          LL: 0.0
+        48:
+          FCY: 0.0
+          LL: 0.0
+        49:
+          FCY: 0.0
+          LL: 0.0
+        50:
+          FCY: 0.0
+          LL: 0.0
+        51:
+          FCY: 0.0
+          LL: 0.0
+        52:
+          FCY: 0.0
+          LL: 0.0
+        53:
+          FCY: 0.0
+          LL: 0.0
+        54:
+          FCY: 0.0
+          LL: 0.0
+        55:
+          FCY: 0.0
+          LL: 0.0
+        56:
+          FCY: 0.0
+          LL: 0.0
+        57:
+          FCY: 0.0
+          LL: 0.0
+        58:
+          FCY: 0.0
+          LL: 0.0
+        59:
+          FCY: 0.0
+          LL: 0.0
+        60:
+          FCY: 0.0
+          LL: 0.0
+        61:
+          FCY: 0.0
+          LL: 0.0
+        62:
+          FCY: 0.0
+          LL: 0.0
+        63:
+          FCY: 0.0
+          LL: 0.0
+        64:
+          FCY: 0.0
+          LL: 0.0
+        65:
+          FCY: 0.0
+          LL: 0.0
+        66:
+          FCY: 0.0
+          LL: 0.0
+        67:
+          FCY: 0.0
+          LL: 0.0
+        68:
+          FCY: 0.0
+          LL: 0.0
+    3:
+    - - 2016-06-30 - CH-FCYatFHS
+      - Week#3 (Div 1) 2016-06-30 @ FHS
+      - Dual Meet
+      - 3
+      - &131 2016-06-30
+      - &132 !ruby/object:Set
+        hash:
+          CH: true
+          FCY: true
+      - FHS
+      - &133
+        - 1
+      - &134
+        CH: 266.0
+        FCY: 376.0
+      - &135
+        1:
+          CH: 5.0
+          FCY: 4.0
+        2:
+          CH: 14.0
+          FCY: 4.0
+        3:
+          CH: 19.0
+          FCY: 8.0
+        4:
+          CH: 20.0
+          FCY: 16.0
+        5:
+          CH: 23.0
+          FCY: 22.0
+        6:
+          CH: 25.0
+          FCY: 29.0
+        7:
+          CH: 30.0
+          FCY: 33.0
+        8:
+          CH: 33.0
+          FCY: 39.0
+        9:
+          CH: 33.0
+          FCY: 48.0
+        10:
+          CH: 40.0
+          FCY: 50.0
+        11:
+          CH: 44.0
+          FCY: 55.0
+        12:
+          CH: 47.0
+          FCY: 61.0
+        13:
+          CH: 50.0
+          FCY: 67.0
+        14:
+          CH: 59.0
+          FCY: 67.0
+        15:
+          CH: 60.0
+          FCY: 75.0
+        16:
+          CH: 60.0
+          FCY: 84.0
+        17:
+          CH: 64.0
+          FCY: 89.0
+        18:
+          CH: 64.0
+          FCY: 98.0
+        19:
+          CH: 67.0
+          FCY: 104.0
+        20:
+          CH: 68.0
+          FCY: 112.0
+        21:
+          CH: 68.0
+          FCY: 121.0
+        22:
+          CH: 74.0
+          FCY: 124.0
+        23:
+          CH: 79.0
+          FCY: 128.0
+        24:
+          CH: 80.0
+          FCY: 136.0
+        25:
+          CH: 85.0
+          FCY: 140.0
+        26:
+          CH: 86.0
+          FCY: 148.0
+        27:
+          CH: 92.0
+          FCY: 151.0
+        28:
+          CH: 97.0
+          FCY: 155.0
+        29:
+          CH: 98.0
+          FCY: 163.0
+        30:
+          CH: 106.0
+          FCY: 164.0
+        31:
+          CH: 110.0
+          FCY: 174.0
+        32:
+          CH: 114.0
+          FCY: 184.0
+        33:
+          CH: 118.0
+          FCY: 194.0
+        34:
+          CH: 128.0
+          FCY: 198.0
+        35:
+          CH: 131.0
+          FCY: 204.0
+        36:
+          CH: 140.0
+          FCY: 204.0
+        37:
+          CH: 144.0
+          FCY: 209.0
+        38:
+          CH: 144.0
+          FCY: 218.0
+        39:
+          CH: 148.0
+          FCY: 223.0
+        40:
+          CH: 153.0
+          FCY: 227.0
+        41:
+          CH: 158.0
+          FCY: 231.0
+        42:
+          CH: 159.0
+          FCY: 239.0
+        43:
+          CH: 159.0
+          FCY: 248.0
+        44:
+          CH: 168.0
+          FCY: 248.0
+        45:
+          CH: 172.0
+          FCY: 253.0
+        46:
+          CH: 176.0
+          FCY: 258.0
+        47:
+          CH: 176.0
+          FCY: 267.0
+        48:
+          CH: 185.0
+          FCY: 267.0
+        49:
+          CH: 191.0
+          FCY: 270.0
+        50:
+          CH: 194.0
+          FCY: 276.0
+        51:
+          CH: 200.0
+          FCY: 279.0
+        52:
+          CH: 206.0
+          FCY: 282.0
+        53:
+          CH: 211.0
+          FCY: 286.0
+        54:
+          CH: 216.0
+          FCY: 290.0
+        55:
+          CH: 217.0
+          FCY: 298.0
+        56:
+          CH: 226.0
+          FCY: 298.0
+        57:
+          CH: 229.0
+          FCY: 304.0
+        58:
+          CH: 237.0
+          FCY: 305.0
+        59:
+          CH: 237.0
+          FCY: 314.0
+        60:
+          CH: 237.0
+          FCY: 323.0
+        61:
+          CH: 238.0
+          FCY: 331.0
+        62:
+          CH: 241.0
+          FCY: 337.0
+        63:
+          CH: 249.0
+          FCY: 338.0
+        64:
+          CH: 252.0
+          FCY: 344.0
+        65:
+          CH: 252.0
+          FCY: 353.0
+        66:
+          CH: 258.0
+          FCY: 356.0
+        67:
+          CH: 262.0
+          FCY: 366.0
+        68:
+          CH: 266.0
+          FCY: 376.0
+    4:
+    - - 2016-07-07 - FCY-HHCCatFHS
+      - Week#4 (Div 1) 2016-07-07 @ FHS
+      - Dual Meet
+      - 4
+      - &21 2016-07-07
+      - &22 !ruby/object:Set
+        hash:
+          FCY: true
+          HHCC: true
+      - FHS
+      - &23
+        - 1
+      - &24
+        FCY: 411.0
+        HHCC: 223.0
+      - &25
+        1:
+          FCY: 9.0
+          HHCC: 0.0
+        2:
+          FCY: 15.0
+          HHCC: 3.0
+        3:
+          FCY: 23.0
+          HHCC: 4.0
+        4:
+          FCY: 32.0
+          HHCC: 4.0
+        5:
+          FCY: 38.0
+          HHCC: 7.0
+        6:
+          FCY: 47.0
+          HHCC: 7.0
+        7:
+          FCY: 51.0
+          HHCC: 12.0
+        8:
+          FCY: 56.0
+          HHCC: 16.0
+        9:
+          FCY: 57.0
+          HHCC: 24.0
+        10:
+          FCY: 57.0
+          HHCC: 33.0
+        11:
+          FCY: 62.0
+          HHCC: 37.0
+        12:
+          FCY: 62.0
+          HHCC: 46.0
+        13:
+          FCY: 71.0
+          HHCC: 46.0
+        14:
+          FCY: 77.0
+          HHCC: 49.0
+        15:
+          FCY: 83.0
+          HHCC: 52.0
+        16:
+          FCY: 92.0
+          HHCC: 52.0
+        17:
+          FCY: 97.0
+          HHCC: 52.0
+        18:
+          FCY: 106.0
+          HHCC: 52.0
+        19:
+          FCY: 110.0
+          HHCC: 57.0
+        20:
+          FCY: 119.0
+          HHCC: 57.0
+        21:
+          FCY: 128.0
+          HHCC: 57.0
+        22:
+          FCY: 134.0
+          HHCC: 60.0
+        23:
+          FCY: 143.0
+          HHCC: 60.0
+        24:
+          FCY: 152.0
+          HHCC: 60.0
+        25:
+          FCY: 158.0
+          HHCC: 63.0
+        26:
+          FCY: 167.0
+          HHCC: 63.0
+        27:
+          FCY: 175.0
+          HHCC: 64.0
+        28:
+          FCY: 176.0
+          HHCC: 72.0
+        29:
+          FCY: 176.0
+          HHCC: 77.0
+        30:
+          FCY: 177.0
+          HHCC: 85.0
+        31:
+          FCY: 191.0
+          HHCC: 85.0
+        32:
+          FCY: 205.0
+          HHCC: 85.0
+        33:
+          FCY: 213.0
+          HHCC: 91.0
+        34:
+          FCY: 217.0
+          HHCC: 101.0
+        35:
+          FCY: 226.0
+          HHCC: 101.0
+        36:
+          FCY: 234.0
+          HHCC: 102.0
+        37:
+          FCY: 240.0
+          HHCC: 105.0
+        38:
+          FCY: 249.0
+          HHCC: 105.0
+        39:
+          FCY: 253.0
+          HHCC: 110.0
+        40:
+          FCY: 262.0
+          HHCC: 110.0
+        41:
+          FCY: 266.0
+          HHCC: 115.0
+        42:
+          FCY: 272.0
+          HHCC: 118.0
+        43:
+          FCY: 273.0
+          HHCC: 126.0
+        44:
+          FCY: 274.0
+          HHCC: 134.0
+        45:
+          FCY: 279.0
+          HHCC: 138.0
+        46:
+          FCY: 282.0
+          HHCC: 144.0
+        47:
+          FCY: 291.0
+          HHCC: 144.0
+        48:
+          FCY: 299.0
+          HHCC: 145.0
+        49:
+          FCY: 305.0
+          HHCC: 148.0
+        50:
+          FCY: 314.0
+          HHCC: 148.0
+        51:
+          FCY: 323.0
+          HHCC: 148.0
+        52:
+          FCY: 332.0
+          HHCC: 148.0
+        53:
+          FCY: 336.0
+          HHCC: 153.0
+        54:
+          FCY: 337.0
+          HHCC: 161.0
+        55:
+          FCY: 342.0
+          HHCC: 165.0
+        56:
+          FCY: 342.0
+          HHCC: 174.0
+        57:
+          FCY: 351.0
+          HHCC: 174.0
+        58:
+          FCY: 357.0
+          HHCC: 177.0
+        59:
+          FCY: 361.0
+          HHCC: 182.0
+        60:
+          FCY: 370.0
+          HHCC: 182.0
+        61:
+          FCY: 376.0
+          HHCC: 185.0
+        62:
+          FCY: 385.0
+          HHCC: 185.0
+        63:
+          FCY: 389.0
+          HHCC: 190.0
+        64:
+          FCY: 397.0
+          HHCC: 191.0
+        65:
+          FCY: 398.0
+          HHCC: 199.0
+        66:
+          FCY: 403.0
+          HHCC: 203.0
+        67:
+          FCY: 409.0
+          HHCC: 211.0
+        68:
+          FCY: 411.0
+          HHCC: 223.0
+    5:
+    - - 2016-07-16 - FCY-RSSTatRSST
+      - Week#5 (Div 1 & 2) 2016-07-16 @ RSST
+      - Dual Meet
+      - 5
+      - &66 2016-07-16
+      - &67 !ruby/object:Set
+        hash:
+          FCY: true
+          RSST: true
+      - RSST
+      - &68
+        - 1
+        - 2
+      - &69
+        FCY: 0.0
+        RSST: 0.0
+      - &70
+        1:
+          FCY: 0.0
+          RSST: 0.0
+        2:
+          FCY: 0.0
+          RSST: 0.0
+        3:
+          FCY: 0.0
+          RSST: 0.0
+        4:
+          FCY: 0.0
+          RSST: 0.0
+        5:
+          FCY: 0.0
+          RSST: 0.0
+        6:
+          FCY: 0.0
+          RSST: 0.0
+        7:
+          FCY: 0.0
+          RSST: 0.0
+        8:
+          FCY: 0.0
+          RSST: 0.0
+        9:
+          FCY: 0.0
+          RSST: 0.0
+        10:
+          FCY: 0.0
+          RSST: 0.0
+        11:
+          FCY: 0.0
+          RSST: 0.0
+        12:
+          FCY: 0.0
+          RSST: 0.0
+        13:
+          FCY: 0.0
+          RSST: 0.0
+        14:
+          FCY: 0.0
+          RSST: 0.0
+        15:
+          FCY: 0.0
+          RSST: 0.0
+        16:
+          FCY: 0.0
+          RSST: 0.0
+        17:
+          FCY: 0.0
+          RSST: 0.0
+        18:
+          FCY: 0.0
+          RSST: 0.0
+        19:
+          FCY: 0.0
+          RSST: 0.0
+        20:
+          FCY: 0.0
+          RSST: 0.0
+        21:
+          FCY: 0.0
+          RSST: 0.0
+        22:
+          FCY: 0.0
+          RSST: 0.0
+        23:
+          FCY: 0.0
+          RSST: 0.0
+        24:
+          FCY: 0.0
+          RSST: 0.0
+        25:
+          FCY: 0.0
+          RSST: 0.0
+        26:
+          FCY: 0.0
+          RSST: 0.0
+        27:
+          FCY: 0.0
+          RSST: 0.0
+        28:
+          FCY: 0.0
+          RSST: 0.0
+        29:
+          FCY: 0.0
+          RSST: 0.0
+        30:
+          FCY: 0.0
+          RSST: 0.0
+        31:
+          FCY: 0.0
+          RSST: 0.0
+        32:
+          FCY: 0.0
+          RSST: 0.0
+        33:
+          FCY: 0.0
+          RSST: 0.0
+        34:
+          FCY: 0.0
+          RSST: 0.0
+        35:
+          FCY: 0.0
+          RSST: 0.0
+        36:
+          FCY: 0.0
+          RSST: 0.0
+        37:
+          FCY: 0.0
+          RSST: 0.0
+        38:
+          FCY: 0.0
+          RSST: 0.0
+        39:
+          FCY: 0.0
+          RSST: 0.0
+        40:
+          FCY: 0.0
+          RSST: 0.0
+        41:
+          FCY: 0.0
+          RSST: 0.0
+        42:
+          FCY: 0.0
+          RSST: 0.0
+        43:
+          FCY: 0.0
+          RSST: 0.0
+        44:
+          FCY: 0.0
+          RSST: 0.0
+        45:
+          FCY: 0.0
+          RSST: 0.0
+        46:
+          FCY: 0.0
+          RSST: 0.0
+        47:
+          FCY: 0.0
+          RSST: 0.0
+        48:
+          FCY: 0.0
+          RSST: 0.0
+        49:
+          FCY: 0.0
+          RSST: 0.0
+        50:
+          FCY: 0.0
+          RSST: 0.0
+        51:
+          FCY: 0.0
+          RSST: 0.0
+        52:
+          FCY: 0.0
+          RSST: 0.0
+        53:
+          FCY: 0.0
+          RSST: 0.0
+        54:
+          FCY: 0.0
+          RSST: 0.0
+        55:
+          FCY: 0.0
+          RSST: 0.0
+        56:
+          FCY: 0.0
+          RSST: 0.0
+        57:
+          FCY: 0.0
+          RSST: 0.0
+        58:
+          FCY: 0.0
+          RSST: 0.0
+        59:
+          FCY: 0.0
+          RSST: 0.0
+        60:
+          FCY: 0.0
+          RSST: 0.0
+        61:
+          FCY: 0.0
+          RSST: 0.0
+        62:
+          FCY: 0.0
+          RSST: 0.0
+        63:
+          FCY: 0.0
+          RSST: 0.0
+        64:
+          FCY: 0.0
+          RSST: 0.0
+        65:
+          FCY: 0.0
+          RSST: 0.0
+        66:
+          FCY: 0.0
+          RSST: 0.0
+        67:
+          FCY: 0.0
+          RSST: 0.0
+        68:
+          FCY: 0.0
+          RSST: 0.0
+    6:
+    - - 2016-07-23 - FCY-HHCC-CHatHHCC
+      - Week#6 2016-07-23 Meet @ HHCC
+      - Divisional Meet
+      - 6
+      - &26 2016-07-23
+      - &27 !ruby/object:Set
+        hash:
+          FCY: true
+          HHCC: true
+          CH: true
+      - HHCC
+      - &28
+        - 1
+      - &29
+        HHCC: 394.0
+        CH: 465.0
+        FCY: 642.0
+      - &30
+        1:
+          HHCC: 5.0
+          CH: 0.0
+          FCY: 17.0
+        2:
+          HHCC: 12.0
+          CH: 12.0
+          FCY: 20.0
+        3:
+          HHCC: 16.0
+          CH: 22.0
+          FCY: 28.0
+        4:
+          HHCC: 17.0
+          CH: 26.0
+          FCY: 45.0
+        5:
+          HHCC: 18.0
+          CH: 33.0
+          FCY: 59.0
+        6:
+          HHCC: 18.0
+          CH: 45.0
+          FCY: 69.0
+        7:
+          HHCC: 26.0
+          CH: 53.0
+          FCY: 75.0
+        8:
+          HHCC: 40.0
+          CH: 56.0
+          FCY: 80.0
+        9:
+          HHCC: 57.0
+          CH: 56.0
+          FCY: 85.0
+        10:
+          HHCC: 65.0
+          CH: 70.0
+          FCY: 85.0
+        11:
+          HHCC: 69.0
+          CH: 81.0
+          FCY: 92.0
+        12:
+          HHCC: 82.0
+          CH: 89.0
+          FCY: 93.0
+        13:
+          HHCC: 83.0
+          CH: 92.0
+          FCY: 111.0
+        14:
+          HHCC: 87.0
+          CH: 104.0
+          FCY: 117.0
+        15:
+          HHCC: 95.0
+          CH: 108.0
+          FCY: 127.0
+        16:
+          HHCC: 95.0
+          CH: 111.0
+          FCY: 145.0
+        17:
+          HHCC: 99.0
+          CH: 120.0
+          FCY: 154.0
+        18:
+          HHCC: 100.0
+          CH: 132.0
+          FCY: 163.0
+        19:
+          HHCC: 105.0
+          CH: 142.0
+          FCY: 170.0
+        20:
+          HHCC: 113.0
+          CH: 151.0
+          FCY: 175.0
+        21:
+          HHCC: 120.0
+          CH: 151.0
+          FCY: 190.0
+        22:
+          HHCC: 127.0
+          CH: 163.0
+          FCY: 193.0
+        23:
+          HHCC: 130.0
+          CH: 167.0
+          FCY: 208.0
+        24:
+          HHCC: 130.0
+          CH: 170.0
+          FCY: 227.0
+        25:
+          HHCC: 130.0
+          CH: 179.0
+          FCY: 240.0
+        26:
+          HHCC: 130.0
+          CH: 191.0
+          FCY: 250.0
+        27:
+          HHCC: 136.0
+          CH: 194.0
+          FCY: 263.0
+        28:
+          HHCC: 149.0
+          CH: 194.0
+          FCY: 272.0
+        29:
+          HHCC: 162.0
+          CH: 199.0
+          FCY: 276.0
+        30:
+          HHCC: 167.0
+          CH: 216.0
+          FCY: 276.0
+        31:
+          HHCC: 167.0
+          CH: 223.0
+          FCY: 292.0
+        32:
+          HHCC: 167.0
+          CH: 235.0
+          FCY: 303.0
+        33:
+          HHCC: 176.0
+          CH: 239.0
+          FCY: 313.0
+        34:
+          HHCC: 195.0
+          CH: 239.0
+          FCY: 317.0
+        35:
+          HHCC: 195.0
+          CH: 244.0
+          FCY: 334.0
+        36:
+          HHCC: 198.0
+          CH: 255.0
+          FCY: 342.0
+        37:
+          HHCC: 210.0
+          CH: 256.0
+          FCY: 351.0
+        38:
+          HHCC: 210.0
+          CH: 260.0
+          FCY: 369.0
+        39:
+          HHCC: 215.0
+          CH: 265.0
+          FCY: 381.0
+        40:
+          HHCC: 215.0
+          CH: 278.0
+          FCY: 390.0
+        41:
+          HHCC: 222.0
+          CH: 285.0
+          FCY: 398.0
+        42:
+          HHCC: 232.0
+          CH: 285.0
+          FCY: 410.0
+        43:
+          HHCC: 244.0
+          CH: 287.0
+          FCY: 418.0
+        44:
+          HHCC: 252.0
+          CH: 298.0
+          FCY: 421.0
+        45:
+          HHCC: 255.0
+          CH: 310.0
+          FCY: 428.0
+        46:
+          HHCC: 267.0
+          CH: 318.0
+          FCY: 430.0
+        47:
+          HHCC: 267.0
+          CH: 324.0
+          FCY: 446.0
+        48:
+          HHCC: 268.0
+          CH: 336.0
+          FCY: 455.0
+        49:
+          HHCC: 276.0
+          CH: 346.0
+          FCY: 459.0
+        50:
+          HHCC: 276.0
+          CH: 353.0
+          FCY: 474.0
+        51:
+          HHCC: 281.0
+          CH: 361.0
+          FCY: 483.0
+        52:
+          HHCC: 281.0
+          CH: 371.0
+          FCY: 495.0
+        53:
+          HHCC: 288.0
+          CH: 379.0
+          FCY: 502.0
+        54:
+          HHCC: 303.0
+          CH: 379.0
+          FCY: 509.0
+        55:
+          HHCC: 320.0
+          CH: 380.0
+          FCY: 513.0
+        56:
+          HHCC: 326.0
+          CH: 395.0
+          FCY: 514.0
+        57:
+          HHCC: 331.0
+          CH: 398.0
+          FCY: 528.0
+        58:
+          HHCC: 338.0
+          CH: 410.0
+          FCY: 531.0
+        59:
+          HHCC: 347.0
+          CH: 411.0
+          FCY: 543.0
+        60:
+          HHCC: 347.0
+          CH: 411.0
+          FCY: 565.0
+        61:
+          HHCC: 350.0
+          CH: 418.0
+          FCY: 577.0
+        62:
+          HHCC: 350.0
+          CH: 430.0
+          FCY: 587.0
+        63:
+          HHCC: 355.0
+          CH: 437.0
+          FCY: 597.0
+        64:
+          HHCC: 363.0
+          CH: 438.0
+          FCY: 610.0
+        65:
+          HHCC: 377.0
+          CH: 439.0
+          FCY: 617.0
+        66:
+          HHCC: 383.0
+          CH: 451.0
+          FCY: 621.0
+        67:
+          HHCC: 390.0
+          CH: 455.0
+          FCY: 633.0
+        68:
+          HHCC: 394.0
+          CH: 465.0
+          FCY: 642.0
+    7:
+    - - 2016-07-30 - BAR-CH-DB-FCY-HHCC-HC-LL-PVYA-RSST-RMR-SR-VOU-WRST-WKWatLL
+      - Week#7 2016-07-30 All Star Meet @ LL
+      - All Star Meet
+      - 7
+      - *6
+      - *7
+      - LL
+      - *8
+      - *9
+      - *10
+LL:
+  2016:
+    1:
+    - - 2016-06-18 - FCY-LLatLL
+      - Week#1 (Div 1 & 3) 2016-06-18 @ LL
+      - Dual Meet
+      - 1
+      - *11
+      - *12
+      - LL
+      - *13
+      - *14
+      - *15
+    2:
+    - - 2016-06-25 - VOU-LLatVOU
+      - Week#2 (Div 3) 2016-06-25 @ VOU
+      - Dual Meet
+      - 2
+      - &121 2016-06-25
+      - &122 !ruby/object:Set
+        hash:
+          VOU: true
+          LL: true
+      - VOU
+      - &123
+        - 3
+      - &124
+        LL: 257.0
+        VOU: 376.0
+      - &125
+        1:
+          LL: 3.0
+          VOU: 6.0
+        2:
+          LL: 4.0
+          VOU: 14.0
+        3:
+          LL: 5.0
+          VOU: 22.0
+        4:
+          LL: 8.0
+          VOU: 28.0
+        5:
+          LL: 11.0
+          VOU: 34.0
+        6:
+          LL: 16.0
+          VOU: 38.0
+        7:
+          LL: 19.0
+          VOU: 44.0
+        8:
+          LL: 28.0
+          VOU: 44.0
+        9:
+          LL: 33.0
+          VOU: 48.0
+        10:
+          LL: 39.0
+          VOU: 51.0
+        11:
+          LL: 40.0
+          VOU: 59.0
+        12:
+          LL: 48.0
+          VOU: 60.0
+        13:
+          LL: 57.0
+          VOU: 60.0
+        14:
+          LL: 60.0
+          VOU: 66.0
+        15:
+          LL: 60.0
+          VOU: 75.0
+        16:
+          LL: 64.0
+          VOU: 80.0
+        17:
+          LL: 64.0
+          VOU: 89.0
+        18:
+          LL: 72.0
+          VOU: 90.0
+        19:
+          LL: 72.0
+          VOU: 98.0
+        20:
+          LL: 76.0
+          VOU: 103.0
+        21:
+          LL: 79.0
+          VOU: 109.0
+        22:
+          LL: 83.0
+          VOU: 114.0
+        23:
+          LL: 83.0
+          VOU: 123.0
+        24:
+          LL: 86.0
+          VOU: 129.0
+        25:
+          LL: 87.0
+          VOU: 137.0
+        26:
+          LL: 87.0
+          VOU: 146.0
+        27:
+          LL: 88.0
+          VOU: 154.0
+        28:
+          LL: 92.0
+          VOU: 159.0
+        29:
+          LL: 95.0
+          VOU: 165.0
+        30:
+          LL: 104.0
+          VOU: 165.0
+        31:
+          LL: 108.0
+          VOU: 175.0
+        32:
+          LL: 112.0
+          VOU: 185.0
+        33:
+          LL: 116.0
+          VOU: 195.0
+        34:
+          LL: 124.0
+          VOU: 201.0
+        35:
+          LL: 133.0
+          VOU: 201.0
+        36:
+          LL: 136.0
+          VOU: 207.0
+        37:
+          LL: 136.0
+          VOU: 216.0
+        38:
+          LL: 139.0
+          VOU: 222.0
+        39:
+          LL: 139.0
+          VOU: 231.0
+        40:
+          LL: 144.0
+          VOU: 235.0
+        41:
+          LL: 145.0
+          VOU: 243.0
+        42:
+          LL: 149.0
+          VOU: 248.0
+        43:
+          LL: 152.0
+          VOU: 254.0
+        44:
+          LL: 158.0
+          VOU: 257.0
+        45:
+          LL: 158.0
+          VOU: 266.0
+        46:
+          LL: 161.0
+          VOU: 272.0
+        47:
+          LL: 169.0
+          VOU: 273.0
+        48:
+          LL: 173.0
+          VOU: 278.0
+        49:
+          LL: 174.0
+          VOU: 286.0
+        50:
+          LL: 177.0
+          VOU: 292.0
+        51:
+          LL: 180.0
+          VOU: 298.0
+        52:
+          LL: 189.0
+          VOU: 298.0
+        53:
+          LL: 192.0
+          VOU: 304.0
+        54:
+          LL: 201.0
+          VOU: 304.0
+        55:
+          LL: 206.0
+          VOU: 308.0
+        56:
+          LL: 210.0
+          VOU: 313.0
+        57:
+          LL: 218.0
+          VOU: 314.0
+        58:
+          LL: 219.0
+          VOU: 322.0
+        59:
+          LL: 224.0
+          VOU: 326.0
+        60:
+          LL: 233.0
+          VOU: 326.0
+        61:
+          LL: 233.0
+          VOU: 335.0
+        62:
+          LL: 238.0
+          VOU: 339.0
+        63:
+          LL: 238.0
+          VOU: 348.0
+        64:
+          LL: 242.0
+          VOU: 353.0
+        65:
+          LL: 242.0
+          VOU: 358.0
+        66:
+          LL: 247.0
+          VOU: 358.0
+        67:
+          LL: 249.0
+          VOU: 370.0
+        68:
+          LL: 257.0
+          VOU: 376.0
+    4:
+    - - 2016-07-09 - LL-WRSTatLL
+      - Week#4 (Div 3) 2016-07-09 @ LL
+      - Dual Meet
+      - 4
+      - &36 2016-07-09
+      - &37 !ruby/object:Set
+        hash:
+          LL: true
+          WRST: true
+      - LL
+      - &38
+        - 3
+      - &39
+        LL: 359.0
+        WRST: 275.0
+      - &40
+        1:
+          LL: 1.0
+          WRST: 8.0
+        2:
+          LL: 2.0
+          WRST: 16.0
+        3:
+          LL: 3.0
+          WRST: 24.0
+        4:
+          LL: 9.0
+          WRST: 27.0
+        5:
+          LL: 10.0
+          WRST: 35.0
+        6:
+          LL: 18.0
+          WRST: 36.0
+        7:
+          LL: 24.0
+          WRST: 39.0
+        8:
+          LL: 27.0
+          WRST: 45.0
+        9:
+          LL: 36.0
+          WRST: 45.0
+        10:
+          LL: 45.0
+          WRST: 45.0
+        11:
+          LL: 54.0
+          WRST: 45.0
+        12:
+          LL: 62.0
+          WRST: 46.0
+        13:
+          LL: 66.0
+          WRST: 51.0
+        14:
+          LL: 70.0
+          WRST: 56.0
+        15:
+          LL: 73.0
+          WRST: 62.0
+        16:
+          LL: 79.0
+          WRST: 65.0
+        17:
+          LL: 87.0
+          WRST: 66.0
+        18:
+          LL: 96.0
+          WRST: 66.0
+        19:
+          LL: 101.0
+          WRST: 66.0
+        20:
+          LL: 110.0
+          WRST: 66.0
+        21:
+          LL: 113.0
+          WRST: 72.0
+        22:
+          LL: 117.0
+          WRST: 77.0
+        23:
+          LL: 120.0
+          WRST: 83.0
+        24:
+          LL: 129.0
+          WRST: 83.0
+        25:
+          LL: 129.0
+          WRST: 92.0
+        26:
+          LL: 132.0
+          WRST: 98.0
+        27:
+          LL: 141.0
+          WRST: 98.0
+        28:
+          LL: 150.0
+          WRST: 98.0
+        29:
+          LL: 158.0
+          WRST: 99.0
+        30:
+          LL: 167.0
+          WRST: 99.0
+        31:
+          LL: 169.0
+          WRST: 111.0
+        32:
+          LL: 173.0
+          WRST: 121.0
+        33:
+          LL: 177.0
+          WRST: 131.0
+        34:
+          LL: 187.0
+          WRST: 135.0
+        35:
+          LL: 187.0
+          WRST: 144.0
+        36:
+          LL: 188.0
+          WRST: 152.0
+        37:
+          LL: 193.0
+          WRST: 156.0
+        38:
+          LL: 201.0
+          WRST: 157.0
+        39:
+          LL: 201.0
+          WRST: 166.0
+        40:
+          LL: 209.0
+          WRST: 167.0
+        41:
+          LL: 218.0
+          WRST: 167.0
+        42:
+          LL: 223.0
+          WRST: 171.0
+        43:
+          LL: 232.0
+          WRST: 171.0
+        44:
+          LL: 241.0
+          WRST: 171.0
+        45:
+          LL: 247.0
+          WRST: 174.0
+        46:
+          LL: 253.0
+          WRST: 177.0
+        47:
+          LL: 254.0
+          WRST: 185.0
+        48:
+          LL: 258.0
+          WRST: 190.0
+        49:
+          LL: 264.0
+          WRST: 193.0
+        50:
+          LL: 268.0
+          WRST: 198.0
+        51:
+          LL: 269.0
+          WRST: 206.0
+        52:
+          LL: 277.0
+          WRST: 207.0
+        53:
+          LL: 281.0
+          WRST: 212.0
+        54:
+          LL: 290.0
+          WRST: 212.0
+        55:
+          LL: 298.0
+          WRST: 213.0
+        56:
+          LL: 302.0
+          WRST: 218.0
+        57:
+          LL: 308.0
+          WRST: 221.0
+        58:
+          LL: 314.0
+          WRST: 224.0
+        59:
+          LL: 319.0
+          WRST: 228.0
+        60:
+          LL: 327.0
+          WRST: 229.0
+        61:
+          LL: 328.0
+          WRST: 237.0
+        62:
+          LL: 337.0
+          WRST: 237.0
+        63:
+          LL: 346.0
+          WRST: 237.0
+        64:
+          LL: 349.0
+          WRST: 243.0
+        65:
+          LL: 349.0
+          WRST: 248.0
+        66:
+          LL: 353.0
+          WRST: 253.0
+        67:
+          LL: 355.0
+          WRST: 265.0
+        68:
+          LL: 359.0
+          WRST: 275.0
+    5:
+    - - 2016-07-16 - LL-WKWatWKW
+      - Week#5 (Div 3) 2016-07-16 @ WKW
+      - Dual Meet
+      - 5
+      - &161 2016-07-16
+      - &162 !ruby/object:Set
+        hash:
+          LL: true
+          WKW: true
+      - WKW
+      - &163
+        - 3
+      - &164
+        LL: 267.0
+        WKW: 349.0
+      - &165
+        1:
+          LL: 4.0
+          WKW: 5.0
+        2:
+          LL: 8.0
+          WKW: 10.0
+        3:
+          LL: 14.0
+          WKW: 13.0
+        4:
+          LL: 23.0
+          WKW: 13.0
+        5:
+          LL: 27.0
+          WKW: 18.0
+        6:
+          LL: 35.0
+          WKW: 19.0
+        7:
+          LL: 36.0
+          WKW: 27.0
+        8:
+          LL: 37.0
+          WKW: 35.0
+        9:
+          LL: 40.0
+          WKW: 41.0
+        10:
+          LL: 49.0
+          WKW: 41.0
+        11:
+          LL: 53.0
+          WKW: 46.0
+        12:
+          LL: 59.0
+          WKW: 49.0
+        13:
+          LL: 62.0
+          WKW: 54.0
+        14:
+          LL: 67.0
+          WKW: 58.0
+        15:
+          LL: 75.0
+          WKW: 59.0
+        16:
+          LL: 79.0
+          WKW: 64.0
+        18:
+          LL: 84.0
+          WKW: 68.0
+        19:
+          LL: 84.0
+          WKW: 76.0
+        20:
+          LL: 85.0
+          WKW: 84.0
+        21:
+          LL: 89.0
+          WKW: 89.0
+        22:
+          LL: 90.0
+          WKW: 97.0
+        23:
+          LL: 93.0
+          WKW: 103.0
+        24:
+          LL: 101.0
+          WKW: 104.0
+        25:
+          LL: 107.0
+          WKW: 107.0
+        26:
+          LL: 108.0
+          WKW: 115.0
+        27:
+          LL: 114.0
+          WKW: 118.0
+        28:
+          LL: 118.0
+          WKW: 123.0
+        29:
+          LL: 121.0
+          WKW: 129.0
+        30:
+          LL: 125.0
+          WKW: 134.0
+        31:
+          LL: 131.0
+          WKW: 142.0
+        32:
+          LL: 141.0
+          WKW: 146.0
+        33:
+          LL: 143.0
+          WKW: 158.0
+        34:
+          LL: 147.0
+          WKW: 166.0
+        35:
+          LL: 151.0
+          WKW: 171.0
+        36:
+          LL: 154.0
+          WKW: 177.0
+        37:
+          LL: 159.0
+          WKW: 181.0
+        38:
+          LL: 163.0
+          WKW: 186.0
+        39:
+          LL: 167.0
+          WKW: 191.0
+        40:
+          LL: 176.0
+          WKW: 191.0
+        41:
+          LL: 179.0
+          WKW: 197.0
+        42:
+          LL: 188.0
+          WKW: 197.0
+        43:
+          LL: 191.0
+          WKW: 203.0
+        44:
+          LL: 195.0
+          WKW: 208.0
+        45:
+          LL: 199.0
+          WKW: 213.0
+        46:
+          LL: 200.0
+          WKW: 221.0
+        47:
+          LL: 204.0
+          WKW: 226.0
+        48:
+          LL: 207.0
+          WKW: 232.0
+        49:
+          LL: 210.0
+          WKW: 238.0
+        50:
+          LL: 211.0
+          WKW: 246.0
+        51:
+          LL: 214.0
+          WKW: 252.0
+        52:
+          LL: 220.0
+          WKW: 255.0
+        53:
+          LL: 221.0
+          WKW: 263.0
+        54:
+          LL: 225.0
+          WKW: 268.0
+        55:
+          LL: 226.0
+          WKW: 276.0
+        56:
+          LL: 232.0
+          WKW: 279.0
+        57:
+          LL: 235.0
+          WKW: 285.0
+        58:
+          LL: 240.0
+          WKW: 289.0
+        59:
+          LL: 245.0
+          WKW: 293.0
+        60:
+          LL: 249.0
+          WKW: 298.0
+        61:
+          LL: 249.0
+          WKW: 303.0
+        62:
+          LL: 253.0
+          WKW: 308.0
+        63:
+          LL: 253.0
+          WKW: 317.0
+        64:
+          LL: 254.0
+          WKW: 325.0
+        65:
+          LL: 254.0
+          WKW: 325.0
+        66:
+          LL: 259.0
+          WKW: 329.0
+        67:
+          LL: 263.0
+          WKW: 339.0
+        68:
+          LL: 267.0
+          WKW: 349.0
+    6:
+    - - 2016-07-23 - LL-VOU-WRST-WKWatVOU
+      - Week#6 2016-07-23 Meet @ VOU
+      - Divisional Meet
+      - 6
+      - &41 2016-07-23
+      - &42 !ruby/object:Set
+        hash:
+          LL: true
+          VOU: true
+          WRST: true
+          WKW: true
+      - VOU
+      - &43
+        - 3
+      - &44
+        LL: 352.0
+        VOU: 489.0
+        WRST: 311.5
+        WKW: 338.5
+      - &45
+        1:
+          LL: 4.0
+          VOU: 5.0
+          WRST: 6.0
+          WKW: 7.0
+        2:
+          LL: 6.0
+          VOU: 10.0
+          WRST: 17.0
+          WKW: 11.0
+        3:
+          LL: 10.0
+          VOU: 16.5
+          WRST: 28.5
+          WKW: 11.0
+        4:
+          LL: 19.0
+          VOU: 16.5
+          WRST: 30.5
+          WKW: 22.0
+        5:
+          LL: 19.0
+          VOU: 23.5
+          WRST: 38.5
+          WKW: 29.0
+        6:
+          LL: 32.0
+          VOU: 26.5
+          WRST: 39.5
+          WKW: 34.0
+        7:
+          LL: 32.0
+          VOU: 33.5
+          WRST: 41.5
+          WKW: 47.0
+        8:
+          LL: 38.0
+          VOU: 39.5
+          WRST: 44.5
+          WKW: 54.0
+        9:
+          LL: 44.0
+          VOU: 51.5
+          WRST: 44.5
+          WKW: 58.0
+        10:
+          LL: 56.0
+          VOU: 58.5
+          WRST: 44.5
+          WKW: 61.0
+        11:
+          LL: 61.0
+          VOU: 63.5
+          WRST: 49.5
+          WKW: 68.0
+        12:
+          LL: 69.0
+          VOU: 70.5
+          WRST: 49.5
+          WKW: 75.0
+        13:
+          LL: 77.0
+          VOU: 73.5
+          WRST: 53.5
+          WKW: 82.0
+        14:
+          LL: 83.0
+          VOU: 77.5
+          WRST: 63.5
+          WKW: 84.0
+        15:
+          LL: 86.0
+          VOU: 91.5
+          WRST: 68.5
+          WKW: 84.0
+        16:
+          LL: 92.0
+          VOU: 96.5
+          WRST: 71.5
+          WKW: 92.0
+        17:
+          LL: 95.0
+          VOU: 112.5
+          WRST: 74.5
+          WKW: 92.0
+        18:
+          LL: 100.0
+          VOU: 121.5
+          WRST: 78.5
+          WKW: 96.0
+        19:
+          LL: 100.0
+          VOU: 125.5
+          WRST: 88.5
+          WKW: 103.0
+        20:
+          LL: 112.0
+          VOU: 128.5
+          WRST: 88.5
+          WKW: 110.0
+        21:
+          LL: 116.0
+          VOU: 134.5
+          WRST: 93.5
+          WKW: 117.0
+        22:
+          LL: 117.0
+          VOU: 137.5
+          WRST: 105.5
+          WKW: 123.0
+        23:
+          LL: 124.0
+          VOU: 148.5
+          WRST: 105.5
+          WKW: 127.0
+        24:
+          LL: 124.0
+          VOU: 165.5
+          WRST: 109.5
+          WKW: 128.0
+        25:
+          LL: 124.0
+          VOU: 180.5
+          WRST: 116.5
+          WKW: 128.0
+        26:
+          LL: 131.0
+          VOU: 184.5
+          WRST: 122.5
+          WKW: 133.0
+        27:
+          LL: 136.0
+          VOU: 199.5
+          WRST: 122.5
+          WKW: 135.0
+        28:
+          LL: 149.0
+          VOU: 203.5
+          WRST: 122.5
+          WKW: 140.0
+        29:
+          LL: 154.0
+          VOU: 215.5
+          WRST: 122.5
+          WKW: 145.0
+        30:
+          LL: 168.0
+          VOU: 215.5
+          WRST: 130.5
+          WKW: 145.0
+        31:
+          LL: 170.0
+          VOU: 219.5
+          WRST: 137.5
+          WKW: 155.0
+        32:
+          LL: 177.0
+          VOU: 229.5
+          WRST: 141.5
+          WKW: 157.0
+        33:
+          LL: 181.0
+          VOU: 236.5
+          WRST: 143.5
+          WKW: 167.0
+        34:
+          LL: 181.0
+          VOU: 242.5
+          WRST: 153.5
+          WKW: 174.0
+        35:
+          LL: 192.0
+          VOU: 247.5
+          WRST: 154.5
+          WKW: 179.0
+        36:
+          LL: 195.0
+          VOU: 250.5
+          WRST: 166.5
+          WKW: 183.0
+        37:
+          LL: 197.0
+          VOU: 266.5
+          WRST: 170.5
+          WKW: 183.0
+        38:
+          LL: 202.0
+          VOU: 274.5
+          WRST: 172.5
+          WKW: 190.0
+        39:
+          LL: 204.0
+          VOU: 281.5
+          WRST: 177.5
+          WKW: 198.0
+        40:
+          LL: 219.0
+          VOU: 288.5
+          WRST: 177.5
+          WKW: 198.0
+        41:
+          LL: 221.0
+          VOU: 292.5
+          WRST: 182.5
+          WKW: 209.0
+        42:
+          LL: 228.5
+          VOU: 299.5
+          WRST: 185.5
+          WKW: 213.5
+        43:
+          LL: 230.5
+          VOU: 311.5
+          WRST: 185.5
+          WKW: 221.5
+        44:
+          LL: 239.5
+          VOU: 317.5
+          WRST: 185.5
+          WKW: 228.5
+        45:
+          LL: 240.5
+          VOU: 329.5
+          WRST: 187.5
+          WKW: 235.5
+        46:
+          LL: 243.5
+          VOU: 336.5
+          WRST: 192.5
+          WKW: 242.5
+        47:
+          LL: 243.5
+          VOU: 340.5
+          WRST: 203.5
+          WKW: 249.5
+        48:
+          LL: 243.5
+          VOU: 344.5
+          WRST: 213.5
+          WKW: 257.5
+        49:
+          LL: 243.5
+          VOU: 351.5
+          WRST: 227.5
+          WKW: 258.5
+        50:
+          LL: 243.5
+          VOU: 361.5
+          WRST: 232.5
+          WKW: 265.5
+        51:
+          LL: 244.5
+          VOU: 368.5
+          WRST: 239.5
+          WKW: 272.5
+        52:
+          LL: 249.5
+          VOU: 375.5
+          WRST: 241.5
+          WKW: 280.5
+        53:
+          LL: 249.5
+          VOU: 382.5
+          WRST: 246.5
+          WKW: 290.5
+        54:
+          LL: 254.5
+          VOU: 389.5
+          WRST: 253.5
+          WKW: 293.5
+        55:
+          LL: 259.5
+          VOU: 406.5
+          WRST: 253.5
+          WKW: 293.5
+        56:
+          LL: 264.5
+          VOU: 411.5
+          WRST: 260.5
+          WKW: 298.5
+        57:
+          LL: 274.0
+          VOU: 415.0
+          WRST: 262.5
+          WKW: 305.5
+        58:
+          LL: 282.0
+          VOU: 419.0
+          WRST: 267.5
+          WKW: 310.5
+        59:
+          LL: 287.0
+          VOU: 426.0
+          WRST: 277.5
+          WKW: 310.5
+        60:
+          LL: 298.0
+          VOU: 431.0
+          WRST: 282.5
+          WKW: 311.5
+        61:
+          LL: 302.0
+          VOU: 436.0
+          WRST: 289.5
+          WKW: 311.5
+        62:
+          LL: 314.0
+          VOU: 441.0
+          WRST: 290.5
+          WKW: 315.5
+        63:
+          LL: 319.0
+          VOU: 456.0
+          WRST: 290.5
+          WKW: 317.5
+        64:
+          LL: 326.0
+          VOU: 466.0
+          WRST: 295.5
+          WKW: 317.5
+        65:
+          LL: 326.0
+          VOU: 477.0
+          WRST: 302.5
+          WKW: 320.5
+        66:
+          LL: 331.0
+          VOU: 477.0
+          WRST: 309.5
+          WKW: 327.5
+        67:
+          LL: 338.0
+          VOU: 487.0
+          WRST: 311.5
+          WKW: 331.5
+        68:
+          LL: 352.0
+          VOU: 489.0
+          WRST: 311.5
+          WKW: 338.5
+    7:
+    - - 2016-07-30 - BAR-CH-DB-FCY-HHCC-HC-LL-PVYA-RSST-RMR-SR-VOU-WRST-WKWatLL
+      - Week#7 2016-07-30 All Star Meet @ LL
+      - All Star Meet
+      - 7
+      - *6
+      - *7
+      - LL
+      - *8
+      - *9
+      - *10
+HHCC:
+  2016:
+    1:
+    - - 2016-06-18 - HHCC-WRSTatWRST
+      - Week#1 (Div 1 & 3) 2016-06-18 @ WRST
+      - Dual Meet
+      - 1
+      - &31 2016-06-18
+      - &32 !ruby/object:Set
+        hash:
+          HHCC: true
+          WRST: true
+      - WRST
+      - &33
+        - 1
+        - 3
+      - &34
+        HHCC: 17.0
+        WRST: 0.0
+      - &35
+        1:
+          HHCC: 0.0
+          WRST: 0.0
+        2:
+          HHCC: 0.0
+          WRST: 0.0
+        3:
+          HHCC: 0.0
+          WRST: 0.0
+        4:
+          HHCC: 0.0
+          WRST: 0.0
+        5:
+          HHCC: 0.0
+          WRST: 0.0
+        6:
+          HHCC: 0.0
+          WRST: 0.0
+        7:
+          HHCC: 0.0
+          WRST: 0.0
+        8:
+          HHCC: 0.0
+          WRST: 0.0
+        9:
+          HHCC: 0.0
+          WRST: 0.0
+        10:
+          HHCC: 0.0
+          WRST: 0.0
+        11:
+          HHCC: 0.0
+          WRST: 0.0
+        12:
+          HHCC: 0.0
+          WRST: 0.0
+        13:
+          HHCC: 0.0
+          WRST: 0.0
+        14:
+          HHCC: 0.0
+          WRST: 0.0
+        15:
+          HHCC: 0.0
+          WRST: 0.0
+        16:
+          HHCC: 0.0
+          WRST: 0.0
+        17:
+          HHCC: 0.0
+          WRST: 0.0
+        18:
+          HHCC: 0.0
+          WRST: 0.0
+        19:
+          HHCC: 0.0
+          WRST: 0.0
+        20:
+          HHCC: 0.0
+          WRST: 0.0
+        21:
+          HHCC: 0.0
+          WRST: 0.0
+        22:
+          HHCC: 0.0
+          WRST: 0.0
+        23:
+          HHCC: 0.0
+          WRST: 0.0
+        24:
+          HHCC: 0.0
+          WRST: 0.0
+        25:
+          HHCC: 0.0
+          WRST: 0.0
+        26:
+          HHCC: 0.0
+          WRST: 0.0
+        27:
+          HHCC: 0.0
+          WRST: 0.0
+        28:
+          HHCC: 0.0
+          WRST: 0.0
+        29:
+          HHCC: 0.0
+          WRST: 0.0
+        30:
+          HHCC: 0.0
+          WRST: 0.0
+        31:
+          HHCC: 0.0
+          WRST: 0.0
+        32:
+          HHCC: 0.0
+          WRST: 0.0
+        33:
+          HHCC: 0.0
+          WRST: 0.0
+        34:
+          HHCC: 0.0
+          WRST: 0.0
+        35:
+          HHCC: 0.0
+          WRST: 0.0
+        36:
+          HHCC: 0.0
+          WRST: 0.0
+        37:
+          HHCC: 0.0
+          WRST: 0.0
+        38:
+          HHCC: 0.0
+          WRST: 0.0
+        39:
+          HHCC: 0.0
+          WRST: 0.0
+        40:
+          HHCC: 0.0
+          WRST: 0.0
+        41:
+          HHCC: 9.0
+          WRST: 0.0
+        42:
+          HHCC: 9.0
+          WRST: 0.0
+        43:
+          HHCC: 9.0
+          WRST: 0.0
+        44:
+          HHCC: 9.0
+          WRST: 0.0
+        45:
+          HHCC: 9.0
+          WRST: 0.0
+        46:
+          HHCC: 9.0
+          WRST: 0.0
+        47:
+          HHCC: 9.0
+          WRST: 0.0
+        48:
+          HHCC: 9.0
+          WRST: 0.0
+        49:
+          HHCC: 9.0
+          WRST: 0.0
+        50:
+          HHCC: 9.0
+          WRST: 0.0
+        51:
+          HHCC: 9.0
+          WRST: 0.0
+        52:
+          HHCC: 9.0
+          WRST: 0.0
+        53:
+          HHCC: 9.0
+          WRST: 0.0
+        54:
+          HHCC: 9.0
+          WRST: 0.0
+        55:
+          HHCC: 9.0
+          WRST: 0.0
+        56:
+          HHCC: 9.0
+          WRST: 0.0
+        57:
+          HHCC: 9.0
+          WRST: 0.0
+        58:
+          HHCC: 9.0
+          WRST: 0.0
+        59:
+          HHCC: 9.0
+          WRST: 0.0
+        60:
+          HHCC: 17.0
+          WRST: 0.0
+        61:
+          HHCC: 17.0
+          WRST: 0.0
+        62:
+          HHCC: 17.0
+          WRST: 0.0
+        63:
+          HHCC: 17.0
+          WRST: 0.0
+        64:
+          HHCC: 17.0
+          WRST: 0.0
+        65:
+          HHCC: 17.0
+          WRST: 0.0
+        66:
+          HHCC: 17.0
+          WRST: 0.0
+        67:
+          HHCC: 17.0
+          WRST: 0.0
+        68:
+          HHCC: 17.0
+          WRST: 0.0
+    2:
+    - - 2016-06-25 - HHCC-SRatHHCC
+      - Week#2 (Div 1 & 2) 2016-06-25 @ HHCC
+      - Dual Meet
+      - 2
+      - *16
+      - *17
+      - HHCC
+      - *18
+      - *19
+      - *20
+    4:
+    - - 2016-07-07 - FCY-HHCCatFHS
+      - Week#4 (Div 1) 2016-07-07 @ FHS
+      - Dual Meet
+      - 4
+      - *21
+      - *22
+      - FHS
+      - *23
+      - *24
+      - *25
+    5:
+    - - 2016-07-16 - CH-HHCCatHHCC
+      - Week#5 (Div 1) 2016-07-16 @ HHCC
+      - Dual Meet
+      - 5
+      - &141 2016-07-16
+      - &142 !ruby/object:Set
+        hash:
+          CH: true
+          HHCC: true
+      - HHCC
+      - &143
+        - 1
+      - &144
+        CH: 419.0
+        HHCC: 223.0
+      - &145
+        1:
+          CH: 9.0
+          HHCC: 0.0
+        2:
+          CH: 17.0
+          HHCC: 1.0
+        3:
+          CH: 23.0
+          HHCC: 4.0
+        4:
+          CH: 32.0
+          HHCC: 4.0
+        5:
+          CH: 38.0
+          HHCC: 7.0
+        6:
+          CH: 47.0
+          HHCC: 7.0
+        7:
+          CH: 53.0
+          HHCC: 10.0
+        8:
+          CH: 58.0
+          HHCC: 14.0
+        9:
+          CH: 58.0
+          HHCC: 23.0
+        10:
+          CH: 63.0
+          HHCC: 27.0
+        11:
+          CH: 71.0
+          HHCC: 28.0
+        12:
+          CH: 74.0
+          HHCC: 34.0
+        13:
+          CH: 78.0
+          HHCC: 39.0
+        14:
+          CH: 87.0
+          HHCC: 39.0
+        15:
+          CH: 91.0
+          HHCC: 44.0
+        16:
+          CH: 100.0
+          HHCC: 44.0
+        17:
+          CH: 109.0
+          HHCC: 44.0
+        18:
+          CH: 118.0
+          HHCC: 44.0
+        19:
+          CH: 121.0
+          HHCC: 50.0
+        20:
+          CH: 125.0
+          HHCC: 55.0
+        21:
+          CH: 129.0
+          HHCC: 60.0
+        22:
+          CH: 137.0
+          HHCC: 61.0
+        23:
+          CH: 140.0
+          HHCC: 67.0
+        24:
+          CH: 148.0
+          HHCC: 68.0
+        25:
+          CH: 156.0
+          HHCC: 69.0
+        26:
+          CH: 165.0
+          HHCC: 69.0
+        27:
+          CH: 171.0
+          HHCC: 72.0
+        28:
+          CH: 176.0
+          HHCC: 76.0
+        29:
+          CH: 177.0
+          HHCC: 84.0
+        30:
+          CH: 186.0
+          HHCC: 84.0
+        31:
+          CH: 196.0
+          HHCC: 88.0
+        32:
+          CH: 206.0
+          HHCC: 92.0
+        33:
+          CH: 210.0
+          HHCC: 102.0
+        34:
+          CH: 218.0
+          HHCC: 108.0
+        35:
+          CH: 227.0
+          HHCC: 108.0
+        36:
+          CH: 235.0
+          HHCC: 109.0
+        37:
+          CH: 241.0
+          HHCC: 112.0
+        38:
+          CH: 249.0
+          HHCC: 113.0
+        39:
+          CH: 255.0
+          HHCC: 116.0
+        40:
+          CH: 263.0
+          HHCC: 117.0
+        41:
+          CH: 266.0
+          HHCC: 123.0
+        42:
+          CH: 267.0
+          HHCC: 131.0
+        43:
+          CH: 267.0
+          HHCC: 140.0
+        44:
+          CH: 273.0
+          HHCC: 143.0
+        45:
+          CH: 282.0
+          HHCC: 143.0
+        46:
+          CH: 286.0
+          HHCC: 148.0
+        47:
+          CH: 290.0
+          HHCC: 153.0
+        48:
+          CH: 299.0
+          HHCC: 153.0
+        49:
+          CH: 305.0
+          HHCC: 156.0
+        50:
+          CH: 314.0
+          HHCC: 156.0
+        51:
+          CH: 318.0
+          HHCC: 161.0
+        52:
+          CH: 327.0
+          HHCC: 161.0
+        53:
+          CH: 333.0
+          HHCC: 164.0
+        54:
+          CH: 338.0
+          HHCC: 168.0
+        55:
+          CH: 338.0
+          HHCC: 177.0
+        56:
+          CH: 346.0
+          HHCC: 178.0
+        57:
+          CH: 352.0
+          HHCC: 181.0
+        58:
+          CH: 360.0
+          HHCC: 182.0
+        59:
+          CH: 366.0
+          HHCC: 185.0
+        60:
+          CH: 374.0
+          HHCC: 186.0
+        61:
+          CH: 383.0
+          HHCC: 186.0
+        62:
+          CH: 391.0
+          HHCC: 187.0
+        63:
+          CH: 397.0
+          HHCC: 190.0
+        64:
+          CH: 398.0
+          HHCC: 198.0
+        65:
+          CH: 398.0
+          HHCC: 207.0
+        66:
+          CH: 407.0
+          HHCC: 207.0
+        67:
+          CH: 411.0
+          HHCC: 217.0
+        68:
+          CH: 419.0
+          HHCC: 223.0
+    6:
+    - - 2016-07-23 - FCY-HHCC-CHatHHCC
+      - Week#6 2016-07-23 Meet @ HHCC
+      - Divisional Meet
+      - 6
+      - *26
+      - *27
+      - HHCC
+      - *28
+      - *29
+      - *30
+    7:
+    - - 2016-07-30 - BAR-CH-DB-FCY-HHCC-HC-LL-PVYA-RSST-RMR-SR-VOU-WRST-WKWatLL
+      - Week#7 2016-07-30 All Star Meet @ LL
+      - All Star Meet
+      - 7
+      - *6
+      - *7
+      - LL
+      - *8
+      - *9
+      - *10
+WRST:
+  2016:
+    1:
+    - - 2016-06-18 - HHCC-WRSTatWRST
+      - Week#1 (Div 1 & 3) 2016-06-18 @ WRST
+      - Dual Meet
+      - 1
+      - *31
+      - *32
+      - WRST
+      - *33
+      - *34
+      - *35
+    2:
+    - - 2016-06-25 - WRST-WKWatWKW
+      - Week#2 (Div 3) 2016-06-25 @ WKW
+      - Dual Meet
+      - 2
+      - &151 2016-06-25
+      - &152 !ruby/object:Set
+        hash:
+          WRST: true
+          WKW: true
+      - WKW
+      - &153
+        - 3
+      - &154
+        WRST: 295.0
+        WKW: 336.0
+      - &155
+        1:
+          WRST: 9.0
+          WKW: 0.0
+        2:
+          WRST: 17.0
+          WKW: 1.0
+        3:
+          WRST: 17.0
+          WKW: 10.0
+        4:
+          WRST: 20.0
+          WKW: 16.0
+        5:
+          WRST: 24.0
+          WKW: 21.0
+        6:
+          WRST: 25.0
+          WKW: 29.0
+        7:
+          WRST: 28.0
+          WKW: 35.0
+        8:
+          WRST: 33.0
+          WKW: 39.0
+        9:
+          WRST: 34.0
+          WKW: 47.0
+        10:
+          WRST: 37.0
+          WKW: 53.0
+        11:
+          WRST: 37.0
+          WKW: 62.0
+        12:
+          WRST: 38.0
+          WKW: 70.0
+        13:
+          WRST: 42.0
+          WKW: 75.0
+        14:
+          WRST: 42.0
+          WKW: 84.0
+        15:
+          WRST: 47.0
+          WKW: 87.0
+        16:
+          WRST: 52.0
+          WKW: 91.0
+        17:
+          WRST: 60.0
+          WKW: 91.0
+        18:
+          WRST: 63.0
+          WKW: 97.0
+        19:
+          WRST: 64.0
+          WKW: 105.0
+        20:
+          WRST: 68.0
+          WKW: 110.0
+        21:
+          WRST: 77.0
+          WKW: 110.0
+        22:
+          WRST: 85.0
+          WKW: 111.0
+        23:
+          WRST: 90.0
+          WKW: 115.0
+        24:
+          WRST: 94.0
+          WKW: 120.0
+        25:
+          WRST: 103.0
+          WKW: 120.0
+        26:
+          WRST: 106.0
+          WKW: 126.0
+        27:
+          WRST: 112.0
+          WKW: 129.0
+        28:
+          WRST: 113.0
+          WKW: 137.0
+        29:
+          WRST: 116.0
+          WKW: 142.0
+        30:
+          WRST: 120.0
+          WKW: 147.0
+        31:
+          WRST: 130.0
+          WKW: 151.0
+        32:
+          WRST: 140.0
+          WKW: 155.0
+        33:
+          WRST: 146.0
+          WKW: 163.0
+        34:
+          WRST: 154.0
+          WKW: 163.0
+        35:
+          WRST: 158.0
+          WKW: 168.0
+        36:
+          WRST: 163.0
+          WKW: 172.0
+        37:
+          WRST: 163.0
+          WKW: 181.0
+        38:
+          WRST: 168.0
+          WKW: 185.0
+        39:
+          WRST: 174.0
+          WKW: 188.0
+        40:
+          WRST: 177.0
+          WKW: 194.0
+        41:
+          WRST: 178.0
+          WKW: 202.0
+        42:
+          WRST: 179.0
+          WKW: 210.0
+        43:
+          WRST: 179.0
+          WKW: 219.0
+        44:
+          WRST: 182.0
+          WKW: 225.0
+        45:
+          WRST: 185.0
+          WKW: 231.0
+        46:
+          WRST: 186.0
+          WKW: 239.0
+        47:
+          WRST: 190.0
+          WKW: 244.0
+        48:
+          WRST: 195.0
+          WKW: 248.0
+        49:
+          WRST: 200.0
+          WKW: 252.0
+        50:
+          WRST: 201.0
+          WKW: 260.0
+        51:
+          WRST: 209.0
+          WKW: 261.0
+        52:
+          WRST: 213.0
+          WKW: 266.0
+        53:
+          WRST: 217.0
+          WKW: 271.0
+        54:
+          WRST: 222.0
+          WKW: 275.0
+        55:
+          WRST: 225.0
+          WKW: 281.0
+        56:
+          WRST: 230.0
+          WKW: 285.0
+        57:
+          WRST: 234.0
+          WKW: 290.0
+        58:
+          WRST: 235.0
+          WKW: 298.0
+        59:
+          WRST: 236.0
+          WKW: 306.0
+        60:
+          WRST: 239.0
+          WKW: 311.0
+        61:
+          WRST: 248.0
+          WKW: 311.0
+        62:
+          WRST: 251.0
+          WKW: 317.0
+        63:
+          WRST: 259.0
+          WKW: 318.0
+        64:
+          WRST: 267.0
+          WKW: 319.0
+        65:
+          WRST: 275.0
+          WKW: 319.0
+        66:
+          WRST: 279.0
+          WKW: 324.0
+        67:
+          WRST: 287.0
+          WKW: 330.0
+        68:
+          WRST: 295.0
+          WKW: 336.0
+    4:
+    - - 2016-07-09 - LL-WRSTatLL
+      - Week#4 (Div 3) 2016-07-09 @ LL
+      - Dual Meet
+      - 4
+      - *36
+      - *37
+      - LL
+      - *38
+      - *39
+      - *40
+    5:
+    - - 2016-07-16 - VOU-WRSTatWRST
+      - Week#5 (Div 3) 2016-07-16 @ WRST
+      - Dual Meet
+      - 5
+      - &126 2016-07-16
+      - &127 !ruby/object:Set
+        hash:
+          VOU: true
+          WRST: true
+      - WRST
+      - &128
+        - 3
+      - &129
+        VOU: 384.0
+        WRST: 258.0
+      - &130
+        1:
+          VOU: 6.0
+          WRST: 3.0
+        2:
+          VOU: 6.0
+          WRST: 12.0
+        3:
+          VOU: 11.0
+          WRST: 16.0
+        4:
+          VOU: 17.0
+          WRST: 19.0
+        5:
+          VOU: 22.0
+          WRST: 23.0
+        6:
+          VOU: 31.0
+          WRST: 23.0
+        7:
+          VOU: 39.0
+          WRST: 24.0
+        8:
+          VOU: 44.0
+          WRST: 28.0
+        9:
+          VOU: 53.0
+          WRST: 28.0
+        10:
+          VOU: 58.0
+          WRST: 32.0
+        11:
+          VOU: 66.0
+          WRST: 33.0
+        12:
+          VOU: 69.0
+          WRST: 39.0
+        13:
+          VOU: 72.0
+          WRST: 45.0
+        14:
+          VOU: 72.0
+          WRST: 54.0
+        15:
+          VOU: 78.0
+          WRST: 57.0
+        16:
+          VOU: 82.0
+          WRST: 62.0
+        17:
+          VOU: 87.0
+          WRST: 66.0
+        18:
+          VOU: 95.0
+          WRST: 67.0
+        19:
+          VOU: 99.0
+          WRST: 72.0
+        20:
+          VOU: 107.0
+          WRST: 73.0
+        21:
+          VOU: 111.0
+          WRST: 78.0
+        22:
+          VOU: 115.0
+          WRST: 83.0
+        23:
+          VOU: 119.0
+          WRST: 88.0
+        24:
+          VOU: 123.0
+          WRST: 93.0
+        25:
+          VOU: 129.0
+          WRST: 96.0
+        26:
+          VOU: 138.0
+          WRST: 96.0
+        27:
+          VOU: 147.0
+          WRST: 96.0
+        28:
+          VOU: 156.0
+          WRST: 96.0
+        29:
+          VOU: 165.0
+          WRST: 96.0
+        30:
+          VOU: 169.0
+          WRST: 101.0
+        31:
+          VOU: 173.0
+          WRST: 111.0
+        32:
+          VOU: 181.0
+          WRST: 117.0
+        33:
+          VOU: 189.0
+          WRST: 123.0
+        34:
+          VOU: 203.0
+          WRST: 123.0
+        35:
+          VOU: 204.0
+          WRST: 131.0
+        36:
+          VOU: 204.0
+          WRST: 140.0
+        37:
+          VOU: 213.0
+          WRST: 140.0
+        38:
+          VOU: 219.0
+          WRST: 143.0
+        39:
+          VOU: 224.0
+          WRST: 147.0
+        40:
+          VOU: 233.0
+          WRST: 147.0
+        41:
+          VOU: 239.0
+          WRST: 150.0
+        42:
+          VOU: 248.0
+          WRST: 150.0
+        43:
+          VOU: 257.0
+          WRST: 150.0
+        44:
+          VOU: 265.0
+          WRST: 151.0
+        45:
+          VOU: 271.0
+          WRST: 154.0
+        46:
+          VOU: 276.0
+          WRST: 158.0
+        47:
+          VOU: 277.0
+          WRST: 166.0
+        48:
+          VOU: 277.0
+          WRST: 175.0
+        49:
+          VOU: 280.0
+          WRST: 181.0
+        50:
+          VOU: 284.0
+          WRST: 186.0
+        51:
+          VOU: 292.0
+          WRST: 187.0
+        52:
+          VOU: 300.0
+          WRST: 188.0
+        53:
+          VOU: 306.0
+          WRST: 191.0
+        54:
+          VOU: 312.0
+          WRST: 194.0
+        55:
+          VOU: 321.0
+          WRST: 194.0
+        56:
+          VOU: 325.0
+          WRST: 199.0
+        57:
+          VOU: 333.0
+          WRST: 200.0
+        58:
+          VOU: 334.0
+          WRST: 208.0
+        59:
+          VOU: 342.0
+          WRST: 209.0
+        60:
+          VOU: 345.0
+          WRST: 215.0
+        61:
+          VOU: 345.0
+          WRST: 224.0
+        62:
+          VOU: 353.0
+          WRST: 225.0
+        63:
+          VOU: 359.0
+          WRST: 228.0
+        64:
+          VOU: 365.0
+          WRST: 231.0
+        65:
+          VOU: 374.0
+          WRST: 231.0
+        66:
+          VOU: 378.0
+          WRST: 236.0
+        67:
+          VOU: 382.0
+          WRST: 246.0
+        68:
+          VOU: 384.0
+          WRST: 258.0
+    6:
+    - - 2016-07-23 - LL-VOU-WRST-WKWatVOU
+      - Week#6 2016-07-23 Meet @ VOU
+      - Divisional Meet
+      - 6
+      - *41
+      - *42
+      - VOU
+      - *43
+      - *44
+      - *45
+    7:
+    - - 2016-07-30 - BAR-CH-DB-FCY-HHCC-HC-LL-PVYA-RSST-RMR-SR-VOU-WRST-WKWatLL
+      - Week#7 2016-07-30 All Star Meet @ LL
+      - All Star Meet
+      - 7
+      - *6
+      - *7
+      - LL
+      - *8
+      - *9
+      - *10
+DB:
+  2016:
+    1:
+    - - 2016-06-18 - DB-RSSTatDB
+      - Week#1 (Div 2 & 4) 2016-06-18 @ DB
+      - Dual Meet
+      - 1
+      - &56 2016-06-18
+      - &57 !ruby/object:Set
+        hash:
+          DB: true
+          RSST: true
+      - DB
+      - &58
+        - 2
+        - 4
+      - &59
+        DB: 0.0
+        RSST: 0.0
+      - &60
+        1:
+          DB: 0.0
+          RSST: 0.0
+        2:
+          DB: 0.0
+          RSST: 0.0
+        3:
+          DB: 0.0
+          RSST: 0.0
+        4:
+          DB: 0.0
+          RSST: 0.0
+        5:
+          DB: 0.0
+          RSST: 0.0
+        6:
+          DB: 0.0
+          RSST: 0.0
+        7:
+          DB: 0.0
+          RSST: 0.0
+        8:
+          DB: 0.0
+          RSST: 0.0
+        9:
+          DB: 0.0
+          RSST: 0.0
+        10:
+          DB: 0.0
+          RSST: 0.0
+        11:
+          DB: 0.0
+          RSST: 0.0
+        12:
+          DB: 0.0
+          RSST: 0.0
+        13:
+          DB: 0.0
+          RSST: 0.0
+        14:
+          DB: 0.0
+          RSST: 0.0
+        15:
+          DB: 0.0
+          RSST: 0.0
+        16:
+          DB: 0.0
+          RSST: 0.0
+        17:
+          DB: 0.0
+          RSST: 0.0
+        18:
+          DB: 0.0
+          RSST: 0.0
+        19:
+          DB: 0.0
+          RSST: 0.0
+        20:
+          DB: 0.0
+          RSST: 0.0
+        21:
+          DB: 0.0
+          RSST: 0.0
+        22:
+          DB: 0.0
+          RSST: 0.0
+        23:
+          DB: 0.0
+          RSST: 0.0
+        24:
+          DB: 0.0
+          RSST: 0.0
+        25:
+          DB: 0.0
+          RSST: 0.0
+        26:
+          DB: 0.0
+          RSST: 0.0
+        27:
+          DB: 0.0
+          RSST: 0.0
+        28:
+          DB: 0.0
+          RSST: 0.0
+        29:
+          DB: 0.0
+          RSST: 0.0
+        30:
+          DB: 0.0
+          RSST: 0.0
+        31:
+          DB: 0.0
+          RSST: 0.0
+        32:
+          DB: 0.0
+          RSST: 0.0
+        33:
+          DB: 0.0
+          RSST: 0.0
+        34:
+          DB: 0.0
+          RSST: 0.0
+        35:
+          DB: 0.0
+          RSST: 0.0
+        36:
+          DB: 0.0
+          RSST: 0.0
+        37:
+          DB: 0.0
+          RSST: 0.0
+        38:
+          DB: 0.0
+          RSST: 0.0
+        39:
+          DB: 0.0
+          RSST: 0.0
+        40:
+          DB: 0.0
+          RSST: 0.0
+        41:
+          DB: 0.0
+          RSST: 0.0
+        42:
+          DB: 0.0
+          RSST: 0.0
+        43:
+          DB: 0.0
+          RSST: 0.0
+        44:
+          DB: 0.0
+          RSST: 0.0
+        45:
+          DB: 0.0
+          RSST: 0.0
+        46:
+          DB: 0.0
+          RSST: 0.0
+        47:
+          DB: 0.0
+          RSST: 0.0
+        48:
+          DB: 0.0
+          RSST: 0.0
+        49:
+          DB: 0.0
+          RSST: 0.0
+        50:
+          DB: 0.0
+          RSST: 0.0
+        51:
+          DB: 0.0
+          RSST: 0.0
+        52:
+          DB: 0.0
+          RSST: 0.0
+        53:
+          DB: 0.0
+          RSST: 0.0
+        54:
+          DB: 0.0
+          RSST: 0.0
+        55:
+          DB: 0.0
+          RSST: 0.0
+        56:
+          DB: 0.0
+          RSST: 0.0
+        57:
+          DB: 0.0
+          RSST: 0.0
+        58:
+          DB: 0.0
+          RSST: 0.0
+        59:
+          DB: 0.0
+          RSST: 0.0
+        60:
+          DB: 0.0
+          RSST: 0.0
+        61:
+          DB: 0.0
+          RSST: 0.0
+        62:
+          DB: 0.0
+          RSST: 0.0
+        63:
+          DB: 0.0
+          RSST: 0.0
+        64:
+          DB: 0.0
+          RSST: 0.0
+        65:
+          DB: 0.0
+          RSST: 0.0
+        66:
+          DB: 0.0
+          RSST: 0.0
+        67:
+          DB: 0.0
+          RSST: 0.0
+        68:
+          DB: 0.0
+          RSST: 0.0
+    2:
+    - - 2016-06-25 - DB-PVYAatDB
+      - Week#2 (Div 4) 2016-06-25 @ DB
+      - Dual Meet
+      - 2
+      - &101 2016-06-25
+      - &102 !ruby/object:Set
+        hash:
+          DB: true
+          PVYA: true
+      - DB
+      - &103
+        - 4
+      - &104
+        DB: 405.0
+        PVYA: 214.0
+      - &105
+        1:
+          DB: 4.0
+          PVYA: 5.0
+        2:
+          DB: 12.0
+          PVYA: 6.0
+        3:
+          DB: 16.0
+          PVYA: 11.0
+        4:
+          DB: 19.0
+          PVYA: 17.0
+        5:
+          DB: 23.0
+          PVYA: 22.0
+        6:
+          DB: 29.0
+          PVYA: 25.0
+        7:
+          DB: 33.0
+          PVYA: 30.0
+        8:
+          DB: 37.0
+          PVYA: 35.0
+        9:
+          DB: 46.0
+          PVYA: 35.0
+        10:
+          DB: 55.0
+          PVYA: 35.0
+        11:
+          DB: 55.0
+          PVYA: 44.0
+        12:
+          DB: 58.0
+          PVYA: 50.0
+        13:
+          DB: 67.0
+          PVYA: 50.0
+        14:
+          DB: 73.0
+          PVYA: 53.0
+        15:
+          DB: 76.0
+          PVYA: 59.0
+        16:
+          DB: 79.0
+          PVYA: 65.0
+        17:
+          DB: 85.0
+          PVYA: 68.0
+        18:
+          DB: 94.0
+          PVYA: 68.0
+        19:
+          DB: 102.0
+          PVYA: 68.0
+        20:
+          DB: 111.0
+          PVYA: 68.0
+        21:
+          DB: 115.0
+          PVYA: 73.0
+        22:
+          DB: 124.0
+          PVYA: 73.0
+        23:
+          DB: 133.0
+          PVYA: 73.0
+        24:
+          DB: 133.0
+          PVYA: 82.0
+        25:
+          DB: 133.0
+          PVYA: 87.0
+        26:
+          DB: 142.0
+          PVYA: 87.0
+        27:
+          DB: 146.0
+          PVYA: 92.0
+        28:
+          DB: 146.0
+          PVYA: 101.0
+        29:
+          DB: 154.0
+          PVYA: 101.0
+        30:
+          DB: 158.0
+          PVYA: 106.0
+        31:
+          DB: 170.0
+          PVYA: 108.0
+        32:
+          DB: 182.0
+          PVYA: 110.0
+        33:
+          DB: 190.0
+          PVYA: 114.0
+        34:
+          DB: 198.0
+          PVYA: 114.0
+        35:
+          DB: 202.0
+          PVYA: 119.0
+        36:
+          DB: 208.0
+          PVYA: 122.0
+        37:
+          DB: 214.0
+          PVYA: 125.0
+        38:
+          DB: 220.0
+          PVYA: 128.0
+        39:
+          DB: 225.0
+          PVYA: 132.0
+        40:
+          DB: 233.0
+          PVYA: 133.0
+        41:
+          DB: 237.0
+          PVYA: 138.0
+        42:
+          DB: 246.0
+          PVYA: 138.0
+        43:
+          DB: 251.0
+          PVYA: 142.0
+        44:
+          DB: 259.0
+          PVYA: 143.0
+        45:
+          DB: 259.0
+          PVYA: 148.0
+        46:
+          DB: 259.0
+          PVYA: 156.0
+        47:
+          DB: 268.0
+          PVYA: 156.0
+        48:
+          DB: 273.0
+          PVYA: 160.0
+        49:
+          DB: 277.0
+          PVYA: 165.0
+        50:
+          DB: 278.0
+          PVYA: 173.0
+        51:
+          DB: 287.0
+          PVYA: 173.0
+        52:
+          DB: 291.0
+          PVYA: 178.0
+        53:
+          DB: 300.0
+          PVYA: 178.0
+        54:
+          DB: 303.0
+          PVYA: 184.0
+        55:
+          DB: 308.0
+          PVYA: 188.0
+        56:
+          DB: 312.0
+          PVYA: 193.0
+        57:
+          DB: 316.0
+          PVYA: 198.0
+        58:
+          DB: 325.0
+          PVYA: 198.0
+        59:
+          DB: 329.0
+          PVYA: 203.0
+        60:
+          DB: 337.0
+          PVYA: 204.0
+        61:
+          DB: 345.0
+          PVYA: 205.0
+        62:
+          DB: 353.0
+          PVYA: 206.0
+        63:
+          DB: 357.0
+          PVYA: 211.0
+        64:
+          DB: 365.0
+          PVYA: 212.0
+        65:
+          DB: 370.0
+          PVYA: 212.0
+        66:
+          DB: 379.0
+          PVYA: 212.0
+        67:
+          DB: 391.0
+          PVYA: 214.0
+        68:
+          DB: 405.0
+          PVYA: 214.0
+    4:
+    - - 2016-07-09 - BAR-DBatMHS
+      - Week#4 (Div 4) 2016-07-09 @ MHS
+      - Dual Meet
+      - 4
+      - *46
+      - *47
+      - MHS
+      - *48
+      - *49
+      - *50
+    5:
+    - - 2016-07-16 - DB-RMRatRMR
+      - Week#5 (Div 4) 2016-07-16 @ RMR
+      - Dual Meet
+      - 5
+      - &96 2016-07-16
+      - &97 !ruby/object:Set
+        hash:
+          DB: true
+          RMR: true
+      - RMR
+      - &98
+        - 4
+      - &99
+        RMR: 370.0
+        DB: 267.0
+      - &100
+        1:
+          RMR: 9.0
+          DB: 0.0
+        2:
+          RMR: 18.0
+          DB: 0.0
+        3:
+          RMR: 23.0
+          DB: 4.0
+        4:
+          RMR: 27.0
+          DB: 9.0
+        5:
+          RMR: 30.0
+          DB: 15.0
+        6:
+          RMR: 36.0
+          DB: 18.0
+        7:
+          RMR: 37.0
+          DB: 26.0
+        8:
+          RMR: 46.0
+          DB: 26.0
+        9:
+          RMR: 52.0
+          DB: 29.0
+        10:
+          RMR: 52.0
+          DB: 38.0
+        11:
+          RMR: 55.0
+          DB: 43.0
+        12:
+          RMR: 61.0
+          DB: 46.0
+        13:
+          RMR: 70.0
+          DB: 46.0
+        14:
+          RMR: 76.0
+          DB: 49.0
+        15:
+          RMR: 79.0
+          DB: 55.0
+        16:
+          RMR: 83.0
+          DB: 60.0
+        17:
+          RMR: 91.0
+          DB: 61.0
+        18:
+          RMR: 99.0
+          DB: 62.0
+        19:
+          RMR: 103.0
+          DB: 67.0
+        20:
+          RMR: 111.0
+          DB: 68.0
+        21:
+          RMR: 119.0
+          DB: 69.0
+        22:
+          RMR: 128.0
+          DB: 69.0
+        23:
+          RMR: 133.0
+          DB: 74.0
+        24:
+          RMR: 138.0
+          DB: 78.0
+        25:
+          RMR: 141.0
+          DB: 84.0
+        26:
+          RMR: 146.0
+          DB: 88.0
+        27:
+          RMR: 149.0
+          DB: 94.0
+        28:
+          RMR: 157.0
+          DB: 95.0
+        29:
+          RMR: 157.0
+          DB: 103.0
+        30:
+          RMR: 162.0
+          DB: 107.0
+        31:
+          RMR: 172.0
+          DB: 111.0
+        32:
+          RMR: 180.0
+          DB: 117.0
+        33:
+          RMR: 190.0
+          DB: 121.0
+        34:
+          RMR: 194.0
+          DB: 129.0
+        35:
+          RMR: 202.0
+          DB: 130.0
+        36:
+          RMR: 208.0
+          DB: 133.0
+        37:
+          RMR: 213.0
+          DB: 137.0
+        38:
+          RMR: 216.0
+          DB: 143.0
+        39:
+          RMR: 219.0
+          DB: 149.0
+        40:
+          RMR: 223.0
+          DB: 154.0
+        41:
+          RMR: 224.0
+          DB: 162.0
+        42:
+          RMR: 232.0
+          DB: 163.0
+        43:
+          RMR: 238.0
+          DB: 166.0
+        44:
+          RMR: 244.0
+          DB: 169.0
+        45:
+          RMR: 247.0
+          DB: 174.0
+        46:
+          RMR: 256.0
+          DB: 174.0
+        47:
+          RMR: 264.0
+          DB: 175.0
+        48:
+          RMR: 268.0
+          DB: 180.0
+        49:
+          RMR: 274.0
+          DB: 183.0
+        50:
+          RMR: 279.0
+          DB: 187.0
+        51:
+          RMR: 279.0
+          DB: 196.0
+        52:
+          RMR: 285.0
+          DB: 199.0
+        53:
+          RMR: 293.0
+          DB: 200.0
+        54:
+          RMR: 301.0
+          DB: 201.0
+        55:
+          RMR: 302.0
+          DB: 209.0
+        56:
+          RMR: 306.0
+          DB: 214.0
+        57:
+          RMR: 315.0
+          DB: 214.0
+        58:
+          RMR: 324.0
+          DB: 214.0
+        59:
+          RMR: 327.0
+          DB: 220.0
+        60:
+          RMR: 331.0
+          DB: 225.0
+        61:
+          RMR: 334.0
+          DB: 231.0
+        62:
+          RMR: 340.0
+          DB: 234.0
+        63:
+          RMR: 344.0
+          DB: 239.0
+        64:
+          RMR: 352.0
+          DB: 240.0
+        65:
+          RMR: 357.0
+          DB: 243.0
+        66:
+          RMR: 358.0
+          DB: 251.0
+        67:
+          RMR: 362.0
+          DB: 261.0
+        68:
+          RMR: 370.0
+          DB: 267.0
+    6:
+    - - 2016-07-23 - RMR-BAR-DB-PVYAatMHS
+      - Week#6 2016-07-23 Meet @ MHS
+      - Divisional Meet
+      - 6
+      - *51
+      - *52
+      - MHS
+      - *53
+      - *54
+      - *55
+    7:
+    - - 2016-07-30 - BAR-CH-DB-FCY-HHCC-HC-LL-PVYA-RSST-RMR-SR-VOU-WRST-WKWatLL
+      - Week#7 2016-07-30 All Star Meet @ LL
+      - All Star Meet
+      - 7
+      - *6
+      - *7
+      - LL
+      - *8
+      - *9
+      - *10
+RSST:
+  2016:
+    1:
+    - - 2016-06-18 - DB-RSSTatDB
+      - Week#1 (Div 2 & 4) 2016-06-18 @ DB
+      - Dual Meet
+      - 1
+      - *56
+      - *57
+      - DB
+      - *58
+      - *59
+      - *60
+    2:
+    - - 2016-06-25 - HC-RSSTatRSST
+      - Week#2 (Div 2) 2016-06-25 @ RSST
+      - Dual Meet
+      - 2
+      - &76 2016-06-25
+      - &77 !ruby/object:Set
+        hash:
+          HC: true
+          RSST: true
+      - RSST
+      - &78
+        - 2
+      - &79
+        RSST: 361.0
+        HC: 278.0
+      - &80
+        1:
+          RSST: 6.0
+          HC: 3.0
+        2:
+          RSST: 15.0
+          HC: 3.0
+        3:
+          RSST: 15.0
+          HC: 12.0
+        4:
+          RSST: 24.0
+          HC: 12.0
+        5:
+          RSST: 28.0
+          HC: 17.0
+        6:
+          RSST: 34.0
+          HC: 20.0
+        7:
+          RSST: 38.0
+          HC: 25.0
+        8:
+          RSST: 47.0
+          HC: 25.0
+        9:
+          RSST: 48.0
+          HC: 33.0
+        10:
+          RSST: 48.0
+          HC: 42.0
+        11:
+          RSST: 52.0
+          HC: 47.0
+        12:
+          RSST: 57.0
+          HC: 51.0
+        13:
+          RSST: 63.0
+          HC: 54.0
+        14:
+          RSST: 72.0
+          HC: 54.0
+        15:
+          RSST: 73.0
+          HC: 62.0
+        16:
+          RSST: 79.0
+          HC: 65.0
+        17:
+          RSST: 85.0
+          HC: 68.0
+        18:
+          RSST: 91.0
+          HC: 71.0
+        19:
+          RSST: 100.0
+          HC: 71.0
+        20:
+          RSST: 109.0
+          HC: 71.0
+        21:
+          RSST: 112.0
+          HC: 77.0
+        22:
+          RSST: 121.0
+          HC: 77.0
+        23:
+          RSST: 122.0
+          HC: 85.0
+        24:
+          RSST: 131.0
+          HC: 85.0
+        25:
+          RSST: 137.0
+          HC: 88.0
+        26:
+          RSST: 146.0
+          HC: 88.0
+        27:
+          RSST: 154.0
+          HC: 89.0
+        28:
+          RSST: 163.0
+          HC: 89.0
+        29:
+          RSST: 163.0
+          HC: 98.0
+        30:
+          RSST: 163.0
+          HC: 106.0
+        31:
+          RSST: 173.0
+          HC: 110.0
+        32:
+          RSST: 183.0
+          HC: 114.0
+        33:
+          RSST: 195.0
+          HC: 116.0
+        34:
+          RSST: 199.0
+          HC: 126.0
+        35:
+          RSST: 200.0
+          HC: 134.0
+        36:
+          RSST: 209.0
+          HC: 134.0
+        37:
+          RSST: 209.0
+          HC: 143.0
+        38:
+          RSST: 218.0
+          HC: 143.0
+        39:
+          RSST: 219.0
+          HC: 151.0
+        40:
+          RSST: 225.0
+          HC: 154.0
+        41:
+          RSST: 231.0
+          HC: 157.0
+        42:
+          RSST: 239.0
+          HC: 158.0
+        43:
+          RSST: 240.0
+          HC: 166.0
+        44:
+          RSST: 241.0
+          HC: 174.0
+        45:
+          RSST: 245.0
+          HC: 179.0
+        46:
+          RSST: 246.0
+          HC: 187.0
+        47:
+          RSST: 252.0
+          HC: 190.0
+        48:
+          RSST: 258.0
+          HC: 193.0
+        49:
+          RSST: 258.0
+          HC: 202.0
+        50:
+          RSST: 267.0
+          HC: 202.0
+        51:
+          RSST: 275.0
+          HC: 203.0
+        52:
+          RSST: 284.0
+          HC: 203.0
+        53:
+          RSST: 290.0
+          HC: 206.0
+        54:
+          RSST: 298.0
+          HC: 207.0
+        55:
+          RSST: 302.0
+          HC: 212.0
+        56:
+          RSST: 302.0
+          HC: 221.0
+        57:
+          RSST: 307.0
+          HC: 225.0
+        58:
+          RSST: 307.0
+          HC: 234.0
+        59:
+          RSST: 307.0
+          HC: 243.0
+        60:
+          RSST: 316.0
+          HC: 243.0
+        61:
+          RSST: 321.0
+          HC: 247.0
+        62:
+          RSST: 325.0
+          HC: 252.0
+        63:
+          RSST: 334.0
+          HC: 252.0
+        64:
+          RSST: 343.0
+          HC: 252.0
+        65:
+          RSST: 348.0
+          HC: 255.0
+        66:
+          RSST: 351.0
+          HC: 260.0
+        67:
+          RSST: 353.0
+          HC: 272.0
+        68:
+          RSST: 361.0
+          HC: 278.0
+    4:
+    - - 2016-07-09 - RSST-SRatSR
+      - Week#4 (Div 2) 2016-07-09 @ SR
+      - Dual Meet
+      - 4
+      - *61
+      - *62
+      - SR
+      - *63
+      - *64
+      - *65
+    5:
+    - - 2016-07-16 - FCY-RSSTatRSST
+      - Week#5 (Div 1 & 2) 2016-07-16 @ RSST
+      - Dual Meet
+      - 5
+      - *66
+      - *67
+      - RSST
+      - *68
+      - *69
+      - *70
+    6:
+    - - 2016-07-23 - RSST-SR-HCatHC
+      - Week#6 2016-07-23 Meet @ HC
+      - Divisional Meet
+      - 6
+      - *71
+      - *72
+      - HC
+      - *73
+      - *74
+      - *75
+    7:
+    - - 2016-07-30 - BAR-CH-DB-FCY-HHCC-HC-LL-PVYA-RSST-RMR-SR-VOU-WRST-WKWatLL
+      - Week#7 2016-07-30 All Star Meet @ LL
+      - All Star Meet
+      - 7
+      - *6
+      - *7
+      - LL
+      - *8
+      - *9
+      - *10
+HC:
+  2016:
+    1:
+    - - 2016-06-18 - HC-RMRatHC
+      - Week#1 (Div 2 & 4) 2016-06-18 @ HC
+      - Dual Meet
+      - 1
+      - &86 2016-06-18
+      - &87 !ruby/object:Set
+        hash:
+          HC: true
+          RMR: true
+      - HC
+      - &88
+        - 2
+        - 4
+      - &89
+        HC: 0.0
+        RMR: 0.0
+      - &90
+        1:
+          HC: 0.0
+          RMR: 0.0
+        2:
+          HC: 0.0
+          RMR: 0.0
+        3:
+          HC: 0.0
+          RMR: 0.0
+        4:
+          HC: 0.0
+          RMR: 0.0
+        5:
+          HC: 0.0
+          RMR: 0.0
+        6:
+          HC: 0.0
+          RMR: 0.0
+        7:
+          HC: 0.0
+          RMR: 0.0
+        8:
+          HC: 0.0
+          RMR: 0.0
+        9:
+          HC: 0.0
+          RMR: 0.0
+        10:
+          HC: 0.0
+          RMR: 0.0
+        11:
+          HC: 0.0
+          RMR: 0.0
+        12:
+          HC: 0.0
+          RMR: 0.0
+        13:
+          HC: 0.0
+          RMR: 0.0
+        14:
+          HC: 0.0
+          RMR: 0.0
+        15:
+          HC: 0.0
+          RMR: 0.0
+        16:
+          HC: 0.0
+          RMR: 0.0
+        17:
+          HC: 0.0
+          RMR: 0.0
+        18:
+          HC: 0.0
+          RMR: 0.0
+        19:
+          HC: 0.0
+          RMR: 0.0
+        20:
+          HC: 0.0
+          RMR: 0.0
+        21:
+          HC: 0.0
+          RMR: 0.0
+        22:
+          HC: 0.0
+          RMR: 0.0
+        23:
+          HC: 0.0
+          RMR: 0.0
+        24:
+          HC: 0.0
+          RMR: 0.0
+        25:
+          HC: 0.0
+          RMR: 0.0
+        26:
+          HC: 0.0
+          RMR: 0.0
+        27:
+          HC: 0.0
+          RMR: 0.0
+        28:
+          HC: 0.0
+          RMR: 0.0
+        29:
+          HC: 0.0
+          RMR: 0.0
+        30:
+          HC: 0.0
+          RMR: 0.0
+        31:
+          HC: 0.0
+          RMR: 0.0
+        32:
+          HC: 0.0
+          RMR: 0.0
+        33:
+          HC: 0.0
+          RMR: 0.0
+        34:
+          HC: 0.0
+          RMR: 0.0
+        35:
+          HC: 0.0
+          RMR: 0.0
+        36:
+          HC: 0.0
+          RMR: 0.0
+        37:
+          HC: 0.0
+          RMR: 0.0
+        38:
+          HC: 0.0
+          RMR: 0.0
+        39:
+          HC: 0.0
+          RMR: 0.0
+        40:
+          HC: 0.0
+          RMR: 0.0
+        41:
+          HC: 0.0
+          RMR: 0.0
+        42:
+          HC: 0.0
+          RMR: 0.0
+        43:
+          HC: 0.0
+          RMR: 0.0
+        44:
+          HC: 0.0
+          RMR: 0.0
+        45:
+          HC: 0.0
+          RMR: 0.0
+        46:
+          HC: 0.0
+          RMR: 0.0
+        47:
+          HC: 0.0
+          RMR: 0.0
+        48:
+          HC: 0.0
+          RMR: 0.0
+        49:
+          HC: 0.0
+          RMR: 0.0
+        50:
+          HC: 0.0
+          RMR: 0.0
+        51:
+          HC: 0.0
+          RMR: 0.0
+        52:
+          HC: 0.0
+          RMR: 0.0
+        53:
+          HC: 0.0
+          RMR: 0.0
+        54:
+          HC: 0.0
+          RMR: 0.0
+        55:
+          HC: 0.0
+          RMR: 0.0
+        56:
+          HC: 0.0
+          RMR: 0.0
+        57:
+          HC: 0.0
+          RMR: 0.0
+        58:
+          HC: 0.0
+          RMR: 0.0
+        59:
+          HC: 0.0
+          RMR: 0.0
+        60:
+          HC: 0.0
+          RMR: 0.0
+        61:
+          HC: 0.0
+          RMR: 0.0
+        62:
+          HC: 0.0
+          RMR: 0.0
+        63:
+          HC: 0.0
+          RMR: 0.0
+        64:
+          HC: 0.0
+          RMR: 0.0
+        65:
+          HC: 0.0
+          RMR: 0.0
+        66:
+          HC: 0.0
+          RMR: 0.0
+        67:
+          HC: 0.0
+          RMR: 0.0
+        68:
+          HC: 0.0
+          RMR: 0.0
+    2:
+    - - 2016-06-25 - HC-RSSTatRSST
+      - Week#2 (Div 2) 2016-06-25 @ RSST
+      - Dual Meet
+      - 2
+      - *76
+      - *77
+      - RSST
+      - *78
+      - *79
+      - *80
+    4:
+    - - 2016-07-09 - CH-HCatCH
+      - Week#4 (Div 1 & 2) 2016-07-09 @ CH
+      - Dual Meet
+      - 4
+      - &136 2016-07-09
+      - &137 !ruby/object:Set
+        hash:
+          CH: true
+          HC: true
+      - CH
+      - &138
+        - 1
+        - 2
+      - &139
+        CH: 0.0
+        HC: 0.0
+      - &140
+        1:
+          CH: 0.0
+          HC: 0.0
+        2:
+          CH: 0.0
+          HC: 0.0
+        3:
+          CH: 0.0
+          HC: 0.0
+        4:
+          CH: 0.0
+          HC: 0.0
+        5:
+          CH: 0.0
+          HC: 0.0
+        6:
+          CH: 0.0
+          HC: 0.0
+        7:
+          CH: 0.0
+          HC: 0.0
+        8:
+          CH: 0.0
+          HC: 0.0
+        9:
+          CH: 0.0
+          HC: 0.0
+        10:
+          CH: 0.0
+          HC: 0.0
+        11:
+          CH: 0.0
+          HC: 0.0
+        12:
+          CH: 0.0
+          HC: 0.0
+        13:
+          CH: 0.0
+          HC: 0.0
+        14:
+          CH: 0.0
+          HC: 0.0
+        15:
+          CH: 0.0
+          HC: 0.0
+        16:
+          CH: 0.0
+          HC: 0.0
+        17:
+          CH: 0.0
+          HC: 0.0
+        18:
+          CH: 0.0
+          HC: 0.0
+        19:
+          CH: 0.0
+          HC: 0.0
+        20:
+          CH: 0.0
+          HC: 0.0
+        21:
+          CH: 0.0
+          HC: 0.0
+        22:
+          CH: 0.0
+          HC: 0.0
+        23:
+          CH: 0.0
+          HC: 0.0
+        24:
+          CH: 0.0
+          HC: 0.0
+        25:
+          CH: 0.0
+          HC: 0.0
+        26:
+          CH: 0.0
+          HC: 0.0
+        27:
+          CH: 0.0
+          HC: 0.0
+        28:
+          CH: 0.0
+          HC: 0.0
+        29:
+          CH: 0.0
+          HC: 0.0
+        30:
+          CH: 0.0
+          HC: 0.0
+        31:
+          CH: 0.0
+          HC: 0.0
+        32:
+          CH: 0.0
+          HC: 0.0
+        33:
+          CH: 0.0
+          HC: 0.0
+        34:
+          CH: 0.0
+          HC: 0.0
+        35:
+          CH: 0.0
+          HC: 0.0
+        36:
+          CH: 0.0
+          HC: 0.0
+        37:
+          CH: 0.0
+          HC: 0.0
+        38:
+          CH: 0.0
+          HC: 0.0
+        39:
+          CH: 0.0
+          HC: 0.0
+        40:
+          CH: 0.0
+          HC: 0.0
+        41:
+          CH: 0.0
+          HC: 0.0
+        42:
+          CH: 0.0
+          HC: 0.0
+        43:
+          CH: 0.0
+          HC: 0.0
+        44:
+          CH: 0.0
+          HC: 0.0
+        45:
+          CH: 0.0
+          HC: 0.0
+        46:
+          CH: 0.0
+          HC: 0.0
+        47:
+          CH: 0.0
+          HC: 0.0
+        48:
+          CH: 0.0
+          HC: 0.0
+        49:
+          CH: 0.0
+          HC: 0.0
+        50:
+          CH: 0.0
+          HC: 0.0
+        51:
+          CH: 0.0
+          HC: 0.0
+        52:
+          CH: 0.0
+          HC: 0.0
+        53:
+          CH: 0.0
+          HC: 0.0
+        54:
+          CH: 0.0
+          HC: 0.0
+        55:
+          CH: 0.0
+          HC: 0.0
+        56:
+          CH: 0.0
+          HC: 0.0
+        57:
+          CH: 0.0
+          HC: 0.0
+        58:
+          CH: 0.0
+          HC: 0.0
+        59:
+          CH: 0.0
+          HC: 0.0
+        60:
+          CH: 0.0
+          HC: 0.0
+        61:
+          CH: 0.0
+          HC: 0.0
+        62:
+          CH: 0.0
+          HC: 0.0
+        63:
+          CH: 0.0
+          HC: 0.0
+        64:
+          CH: 0.0
+          HC: 0.0
+        65:
+          CH: 0.0
+          HC: 0.0
+        66:
+          CH: 0.0
+          HC: 0.0
+        67:
+          CH: 0.0
+          HC: 0.0
+        68:
+          CH: 0.0
+          HC: 0.0
+    5:
+    - - 2016-07-16 - HC-SRatHC
+      - Week#5 (Div 2) 2016-07-16 @ HC
+      - Dual Meet
+      - 5
+      - *81
+      - *82
+      - HC
+      - *83
+      - *84
+      - *85
+    6:
+    - - 2016-07-23 - RSST-SR-HCatHC
+      - Week#6 2016-07-23 Meet @ HC
+      - Divisional Meet
+      - 6
+      - *71
+      - *72
+      - HC
+      - *73
+      - *74
+      - *75
+    7:
+    - - 2016-07-30 - BAR-CH-DB-FCY-HHCC-HC-LL-PVYA-RSST-RMR-SR-VOU-WRST-WKWatLL
+      - Week#7 2016-07-30 All Star Meet @ LL
+      - All Star Meet
+      - 7
+      - *6
+      - *7
+      - LL
+      - *8
+      - *9
+      - *10
+RMR:
+  2016:
+    1:
+    - - 2016-06-18 - HC-RMRatHC
+      - Week#1 (Div 2 & 4) 2016-06-18 @ HC
+      - Dual Meet
+      - 1
+      - *86
+      - *87
+      - HC
+      - *88
+      - *89
+      - *90
+    2:
+    - - 2016-06-25 - BAR-RMRatMHS
+      - Week#2 (Div 4) 2016-06-25 @ MHS
+      - Dual Meet
+      - 2
+      - *91
+      - *92
+      - MHS
+      - *93
+      - *94
+      - *95
+    4:
+    - - 2016-07-09 - PVYA-RMRatRMR
+      - Week#4 (Div 4) 2016-07-09 @ RMR
+      - Dual Meet
+      - 4
+      - &106 2016-07-09
+      - &107 !ruby/object:Set
+        hash:
+          PVYA: true
+          RMR: true
+      - RMR
+      - &108
+        - 4
+      - &109
+        PVYA: 194.0
+        RMR: 424.0
+      - &110
+        1:
+          PVYA: 1.0
+          RMR: 8.0
+        2:
+          PVYA: 1.0
+          RMR: 17.0
+        3:
+          PVYA: 6.0
+          RMR: 21.0
+        4:
+          PVYA: 7.0
+          RMR: 29.0
+        5:
+          PVYA: 8.0
+          RMR: 37.0
+        6:
+          PVYA: 13.0
+          RMR: 41.0
+        7:
+          PVYA: 13.0
+          RMR: 50.0
+        8:
+          PVYA: 13.0
+          RMR: 59.0
+        9:
+          PVYA: 16.0
+          RMR: 65.0
+        10:
+          PVYA: 21.0
+          RMR: 69.0
+        11:
+          PVYA: 30.0
+          RMR: 69.0
+        12:
+          PVYA: 35.0
+          RMR: 73.0
+        13:
+          PVYA: 38.0
+          RMR: 79.0
+        14:
+          PVYA: 38.0
+          RMR: 88.0
+        15:
+          PVYA: 43.0
+          RMR: 91.0
+        16:
+          PVYA: 46.0
+          RMR: 97.0
+        17:
+          PVYA: 47.0
+          RMR: 105.0
+        18:
+          PVYA: 51.0
+          RMR: 110.0
+        19:
+          PVYA: 56.0
+          RMR: 114.0
+        20:
+          PVYA: 57.0
+          RMR: 122.0
+        21:
+          PVYA: 58.0
+          RMR: 130.0
+        22:
+          PVYA: 59.0
+          RMR: 138.0
+        23:
+          PVYA: 59.0
+          RMR: 143.0
+        24:
+          PVYA: 63.0
+          RMR: 148.0
+        25:
+          PVYA: 66.0
+          RMR: 154.0
+        26:
+          PVYA: 70.0
+          RMR: 159.0
+        27:
+          PVYA: 75.0
+          RMR: 163.0
+        28:
+          PVYA: 75.0
+          RMR: 172.0
+        29:
+          PVYA: 81.0
+          RMR: 175.0
+        30:
+          PVYA: 84.0
+          RMR: 181.0
+        31:
+          PVYA: 88.0
+          RMR: 191.0
+        32:
+          PVYA: 92.0
+          RMR: 199.0
+        33:
+          PVYA: 94.0
+          RMR: 211.0
+        34:
+          PVYA: 102.0
+          RMR: 211.0
+        35:
+          PVYA: 105.0
+          RMR: 217.0
+        36:
+          PVYA: 105.0
+          RMR: 226.0
+        37:
+          PVYA: 108.0
+          RMR: 231.0
+        38:
+          PVYA: 112.0
+          RMR: 236.0
+        39:
+          PVYA: 120.0
+          RMR: 237.0
+        40:
+          PVYA: 121.0
+          RMR: 245.0
+        41:
+          PVYA: 121.0
+          RMR: 254.0
+        42:
+          PVYA: 121.0
+          RMR: 263.0
+        43:
+          PVYA: 124.0
+          RMR: 269.0
+        44:
+          PVYA: 125.0
+          RMR: 277.0
+        45:
+          PVYA: 130.0
+          RMR: 280.0
+        46:
+          PVYA: 130.0
+          RMR: 289.0
+        47:
+          PVYA: 130.0
+          RMR: 298.0
+        48:
+          PVYA: 130.0
+          RMR: 307.0
+        49:
+          PVYA: 136.0
+          RMR: 310.0
+        50:
+          PVYA: 137.0
+          RMR: 318.0
+        51:
+          PVYA: 140.0
+          RMR: 324.0
+        52:
+          PVYA: 146.0
+          RMR: 327.0
+        53:
+          PVYA: 151.0
+          RMR: 331.0
+        54:
+          PVYA: 151.0
+          RMR: 340.0
+        55:
+          PVYA: 152.0
+          RMR: 348.0
+        56:
+          PVYA: 161.0
+          RMR: 348.0
+        57:
+          PVYA: 164.0
+          RMR: 354.0
+        58:
+          PVYA: 164.0
+          RMR: 363.0
+        59:
+          PVYA: 169.0
+          RMR: 367.0
+        60:
+          PVYA: 173.0
+          RMR: 372.0
+        61:
+          PVYA: 177.0
+          RMR: 377.0
+        62:
+          PVYA: 178.0
+          RMR: 385.0
+        63:
+          PVYA: 183.0
+          RMR: 389.0
+        64:
+          PVYA: 184.0
+          RMR: 397.0
+        65:
+          PVYA: 184.0
+          RMR: 397.0
+        66:
+          PVYA: 192.0
+          RMR: 398.0
+        67:
+          PVYA: 194.0
+          RMR: 410.0
+        68:
+          PVYA: 194.0
+          RMR: 424.0
+    5:
+    - - 2016-07-16 - DB-RMRatRMR
+      - Week#5 (Div 4) 2016-07-16 @ RMR
+      - Dual Meet
+      - 5
+      - *96
+      - *97
+      - RMR
+      - *98
+      - *99
+      - *100
+    6:
+    - - 2016-07-23 - RMR-BAR-DB-PVYAatMHS
+      - Week#6 2016-07-23 Meet @ MHS
+      - Divisional Meet
+      - 6
+      - *51
+      - *52
+      - MHS
+      - *53
+      - *54
+      - *55
+    7:
+    - - 2016-07-30 - BAR-CH-DB-FCY-HHCC-HC-LL-PVYA-RSST-RMR-SR-VOU-WRST-WKWatLL
+      - Week#7 2016-07-30 All Star Meet @ LL
+      - All Star Meet
+      - 7
+      - *6
+      - *7
+      - LL
+      - *8
+      - *9
+      - *10
+PVYA:
+  2016:
+    1:
+    - - 2016-06-18 - PVYA-VOUatBSW
+      - Week#1 (Div 3 & 4) 2016-06-18 @ BSW
+      - Dual Meet
+      - 1
+      - &116 2016-06-18
+      - &117 !ruby/object:Set
+        hash:
+          PVYA: true
+          VOU: true
+      - BSW
+      - &118
+        - 3
+        - 4
+      - &119
+        PVYA: 0.0
+        VOU: 9.0
+      - &120
+        1:
+          PVYA: 0.0
+          VOU: 0.0
+        2:
+          PVYA: 0.0
+          VOU: 0.0
+        3:
+          PVYA: 0.0
+          VOU: 9.0
+        4:
+          PVYA: 0.0
+          VOU: 9.0
+        5:
+          PVYA: 0.0
+          VOU: 9.0
+        6:
+          PVYA: 0.0
+          VOU: 9.0
+        7:
+          PVYA: 0.0
+          VOU: 9.0
+        8:
+          PVYA: 0.0
+          VOU: 9.0
+        9:
+          PVYA: 0.0
+          VOU: 9.0
+        10:
+          PVYA: 0.0
+          VOU: 9.0
+        11:
+          PVYA: 0.0
+          VOU: 9.0
+        12:
+          PVYA: 0.0
+          VOU: 9.0
+        13:
+          PVYA: 0.0
+          VOU: 9.0
+        14:
+          PVYA: 0.0
+          VOU: 9.0
+        15:
+          PVYA: 0.0
+          VOU: 9.0
+        16:
+          PVYA: 0.0
+          VOU: 9.0
+        17:
+          PVYA: 0.0
+          VOU: 9.0
+        18:
+          PVYA: 0.0
+          VOU: 9.0
+        19:
+          PVYA: 0.0
+          VOU: 9.0
+        20:
+          PVYA: 0.0
+          VOU: 9.0
+        21:
+          PVYA: 0.0
+          VOU: 9.0
+        22:
+          PVYA: 0.0
+          VOU: 9.0
+        23:
+          PVYA: 0.0
+          VOU: 9.0
+        24:
+          PVYA: 0.0
+          VOU: 9.0
+        25:
+          PVYA: 0.0
+          VOU: 9.0
+        26:
+          PVYA: 0.0
+          VOU: 9.0
+        27:
+          PVYA: 0.0
+          VOU: 9.0
+        28:
+          PVYA: 0.0
+          VOU: 9.0
+        29:
+          PVYA: 0.0
+          VOU: 9.0
+        30:
+          PVYA: 0.0
+          VOU: 9.0
+        31:
+          PVYA: 0.0
+          VOU: 9.0
+        32:
+          PVYA: 0.0
+          VOU: 9.0
+        33:
+          PVYA: 0.0
+          VOU: 9.0
+        34:
+          PVYA: 0.0
+          VOU: 9.0
+        35:
+          PVYA: 0.0
+          VOU: 9.0
+        36:
+          PVYA: 0.0
+          VOU: 9.0
+        37:
+          PVYA: 0.0
+          VOU: 9.0
+        38:
+          PVYA: 0.0
+          VOU: 9.0
+        39:
+          PVYA: 0.0
+          VOU: 9.0
+        40:
+          PVYA: 0.0
+          VOU: 9.0
+        41:
+          PVYA: 0.0
+          VOU: 9.0
+        42:
+          PVYA: 0.0
+          VOU: 9.0
+        43:
+          PVYA: 0.0
+          VOU: 9.0
+        44:
+          PVYA: 0.0
+          VOU: 9.0
+        45:
+          PVYA: 0.0
+          VOU: 9.0
+        46:
+          PVYA: 0.0
+          VOU: 9.0
+        47:
+          PVYA: 0.0
+          VOU: 9.0
+        48:
+          PVYA: 0.0
+          VOU: 9.0
+        49:
+          PVYA: 0.0
+          VOU: 9.0
+        50:
+          PVYA: 0.0
+          VOU: 9.0
+        51:
+          PVYA: 0.0
+          VOU: 9.0
+        52:
+          PVYA: 0.0
+          VOU: 9.0
+        53:
+          PVYA: 0.0
+          VOU: 9.0
+        54:
+          PVYA: 0.0
+          VOU: 9.0
+        55:
+          PVYA: 0.0
+          VOU: 9.0
+        56:
+          PVYA: 0.0
+          VOU: 9.0
+        57:
+          PVYA: 0.0
+          VOU: 9.0
+        58:
+          PVYA: 0.0
+          VOU: 9.0
+        59:
+          PVYA: 0.0
+          VOU: 9.0
+        60:
+          PVYA: 0.0
+          VOU: 9.0
+        61:
+          PVYA: 0.0
+          VOU: 9.0
+        62:
+          PVYA: 0.0
+          VOU: 9.0
+        63:
+          PVYA: 0.0
+          VOU: 9.0
+        64:
+          PVYA: 0.0
+          VOU: 9.0
+        65:
+          PVYA: 0.0
+          VOU: 9.0
+        66:
+          PVYA: 0.0
+          VOU: 9.0
+        67:
+          PVYA: 0.0
+          VOU: 9.0
+        68:
+          PVYA: 0.0
+          VOU: 9.0
+    2:
+    - - 2016-06-25 - DB-PVYAatDB
+      - Week#2 (Div 4) 2016-06-25 @ DB
+      - Dual Meet
+      - 2
+      - *101
+      - *102
+      - DB
+      - *103
+      - *104
+      - *105
+    4:
+    - - 2016-07-09 - PVYA-RMRatRMR
+      - Week#4 (Div 4) 2016-07-09 @ RMR
+      - Dual Meet
+      - 4
+      - *106
+      - *107
+      - RMR
+      - *108
+      - *109
+      - *110
+    5:
+    - - 2016-07-16 - BAR-PVYAatBSW
+      - Week#5 (Div 4) 2016-07-16 @ BSW
+      - Dual Meet
+      - 5
+      - *111
+      - *112
+      - BSW
+      - *113
+      - *114
+      - *115
+    6:
+    - - 2016-07-23 - RMR-BAR-DB-PVYAatMHS
+      - Week#6 2016-07-23 Meet @ MHS
+      - Divisional Meet
+      - 6
+      - *51
+      - *52
+      - MHS
+      - *53
+      - *54
+      - *55
+    7:
+    - - 2016-07-30 - BAR-CH-DB-FCY-HHCC-HC-LL-PVYA-RSST-RMR-SR-VOU-WRST-WKWatLL
+      - Week#7 2016-07-30 All Star Meet @ LL
+      - All Star Meet
+      - 7
+      - *6
+      - *7
+      - LL
+      - *8
+      - *9
+      - *10
+VOU:
+  2016:
+    1:
+    - - 2016-06-18 - PVYA-VOUatBSW
+      - Week#1 (Div 3 & 4) 2016-06-18 @ BSW
+      - Dual Meet
+      - 1
+      - *116
+      - *117
+      - BSW
+      - *118
+      - *119
+      - *120
+    2:
+    - - 2016-06-25 - VOU-LLatVOU
+      - Week#2 (Div 3) 2016-06-25 @ VOU
+      - Dual Meet
+      - 2
+      - *121
+      - *122
+      - VOU
+      - *123
+      - *124
+      - *125
+    4:
+    - - 2016-07-09 - VOU-WKWatVOU
+      - Week#4 (Div 3) 2016-07-09 @ VOU
+      - Dual Meet
+      - 4
+      - &156 2016-07-09
+      - &157 !ruby/object:Set
+        hash:
+          VOU: true
+          WKW: true
+      - VOU
+      - &158
+        - 3
+      - &159
+        WKW: 166.0
+        VOU: 476.0
+      - &160
+        1:
+          WKW: 0.0
+          VOU: 9.0
+        2:
+          WKW: 3.0
+          VOU: 15.0
+        3:
+          WKW: 3.0
+          VOU: 24.0
+        4:
+          WKW: 11.0
+          VOU: 25.0
+        5:
+          WKW: 12.0
+          VOU: 33.0
+        6:
+          WKW: 12.0
+          VOU: 42.0
+        7:
+          WKW: 18.0
+          VOU: 45.0
+        8:
+          WKW: 22.0
+          VOU: 50.0
+        9:
+          WKW: 23.0
+          VOU: 58.0
+        10:
+          WKW: 24.0
+          VOU: 66.0
+        11:
+          WKW: 27.0
+          VOU: 72.0
+        12:
+          WKW: 35.0
+          VOU: 73.0
+        13:
+          WKW: 35.0
+          VOU: 82.0
+        14:
+          WKW: 35.0
+          VOU: 91.0
+        15:
+          WKW: 35.0
+          VOU: 100.0
+        16:
+          WKW: 36.0
+          VOU: 108.0
+        17:
+          WKW: 36.0
+          VOU: 117.0
+        18:
+          WKW: 37.0
+          VOU: 125.0
+        19:
+          WKW: 40.0
+          VOU: 131.0
+        20:
+          WKW: 43.0
+          VOU: 137.0
+        21:
+          WKW: 43.0
+          VOU: 146.0
+        22:
+          WKW: 48.0
+          VOU: 150.0
+        23:
+          WKW: 48.0
+          VOU: 159.0
+        24:
+          WKW: 53.0
+          VOU: 163.0
+        25:
+          WKW: 53.0
+          VOU: 172.0
+        26:
+          WKW: 53.0
+          VOU: 181.0
+        27:
+          WKW: 53.0
+          VOU: 190.0
+        28:
+          WKW: 54.0
+          VOU: 198.0
+        29:
+          WKW: 54.0
+          VOU: 207.0
+        30:
+          WKW: 59.0
+          VOU: 211.0
+        31:
+          WKW: 61.0
+          VOU: 223.0
+        32:
+          WKW: 61.0
+          VOU: 237.0
+        33:
+          WKW: 63.0
+          VOU: 249.0
+        34:
+          WKW: 67.0
+          VOU: 259.0
+        35:
+          WKW: 67.0
+          VOU: 268.0
+        36:
+          WKW: 72.0
+          VOU: 272.0
+        37:
+          WKW: 72.0
+          VOU: 281.0
+        38:
+          WKW: 77.0
+          VOU: 285.0
+        39:
+          WKW: 78.0
+          VOU: 293.0
+        40:
+          WKW: 78.0
+          VOU: 302.0
+        41:
+          WKW: 81.0
+          VOU: 308.0
+        42:
+          WKW: 89.0
+          VOU: 309.0
+        43:
+          WKW: 94.0
+          VOU: 313.0
+        44:
+          WKW: 99.0
+          VOU: 317.0
+        45:
+          WKW: 104.0
+          VOU: 321.0
+        46:
+          WKW: 112.0
+          VOU: 322.0
+        47:
+          WKW: 112.0
+          VOU: 331.0
+        48:
+          WKW: 113.0
+          VOU: 339.0
+        49:
+          WKW: 113.0
+          VOU: 348.0
+        50:
+          WKW: 117.0
+          VOU: 353.0
+        51:
+          WKW: 117.0
+          VOU: 362.0
+        52:
+          WKW: 123.0
+          VOU: 365.0
+        53:
+          WKW: 128.0
+          VOU: 369.0
+        54:
+          WKW: 132.0
+          VOU: 374.0
+        55:
+          WKW: 132.0
+          VOU: 383.0
+        56:
+          WKW: 137.0
+          VOU: 387.0
+        57:
+          WKW: 137.0
+          VOU: 396.0
+        58:
+          WKW: 138.0
+          VOU: 404.0
+        59:
+          WKW: 138.0
+          VOU: 413.0
+        60:
+          WKW: 143.0
+          VOU: 417.0
+        61:
+          WKW: 143.0
+          VOU: 426.0
+        62:
+          WKW: 144.0
+          VOU: 434.0
+        63:
+          WKW: 145.0
+          VOU: 442.0
+        64:
+          WKW: 149.0
+          VOU: 447.0
+        65:
+          WKW: 149.0
+          VOU: 456.0
+        66:
+          WKW: 154.0
+          VOU: 460.0
+        67:
+          WKW: 156.0
+          VOU: 472.0
+        68:
+          WKW: 166.0
+          VOU: 476.0
+    5:
+    - - 2016-07-16 - VOU-WRSTatWRST
+      - Week#5 (Div 3) 2016-07-16 @ WRST
+      - Dual Meet
+      - 5
+      - *126
+      - *127
+      - WRST
+      - *128
+      - *129
+      - *130
+    6:
+    - - 2016-07-23 - LL-VOU-WRST-WKWatVOU
+      - Week#6 2016-07-23 Meet @ VOU
+      - Divisional Meet
+      - 6
+      - *41
+      - *42
+      - VOU
+      - *43
+      - *44
+      - *45
+    7:
+    - - 2016-07-30 - BAR-CH-DB-FCY-HHCC-HC-LL-PVYA-RSST-RMR-SR-VOU-WRST-WKWatLL
+      - Week#7 2016-07-30 All Star Meet @ LL
+      - All Star Meet
+      - 7
+      - *6
+      - *7
+      - LL
+      - *8
+      - *9
+      - *10
+CH:
+  2016:
+    1:
+    - - 2016-06-18 - CH-WKWatCH
+      - Week#1 (Div 1 & 3) 2016-06-18 @ CH
+      - Dual Meet
+      - 1
+      - &146 2016-06-18
+      - &147 !ruby/object:Set
+        hash:
+          CH: true
+          WKW: true
+      - CH
+      - &148
+        - 1
+        - 3
+      - &149
+        CH: 0.0
+        WKW: 0.0
+      - &150
+        1:
+          CH: 0.0
+          WKW: 0.0
+        2:
+          CH: 0.0
+          WKW: 0.0
+        3:
+          CH: 0.0
+          WKW: 0.0
+        4:
+          CH: 0.0
+          WKW: 0.0
+        5:
+          CH: 0.0
+          WKW: 0.0
+        6:
+          CH: 0.0
+          WKW: 0.0
+        7:
+          CH: 0.0
+          WKW: 0.0
+        8:
+          CH: 0.0
+          WKW: 0.0
+        9:
+          CH: 0.0
+          WKW: 0.0
+        10:
+          CH: 0.0
+          WKW: 0.0
+        11:
+          CH: 0.0
+          WKW: 0.0
+        12:
+          CH: 0.0
+          WKW: 0.0
+        13:
+          CH: 0.0
+          WKW: 0.0
+        14:
+          CH: 0.0
+          WKW: 0.0
+        15:
+          CH: 0.0
+          WKW: 0.0
+        16:
+          CH: 0.0
+          WKW: 0.0
+        17:
+          CH: 0.0
+          WKW: 0.0
+        18:
+          CH: 0.0
+          WKW: 0.0
+        19:
+          CH: 0.0
+          WKW: 0.0
+        20:
+          CH: 0.0
+          WKW: 0.0
+        21:
+          CH: 0.0
+          WKW: 0.0
+        22:
+          CH: 0.0
+          WKW: 0.0
+        23:
+          CH: 0.0
+          WKW: 0.0
+        24:
+          CH: 0.0
+          WKW: 0.0
+        25:
+          CH: 0.0
+          WKW: 0.0
+        26:
+          CH: 0.0
+          WKW: 0.0
+        27:
+          CH: 0.0
+          WKW: 0.0
+        28:
+          CH: 0.0
+          WKW: 0.0
+        29:
+          CH: 0.0
+          WKW: 0.0
+        30:
+          CH: 0.0
+          WKW: 0.0
+        31:
+          CH: 0.0
+          WKW: 0.0
+        32:
+          CH: 0.0
+          WKW: 0.0
+        33:
+          CH: 0.0
+          WKW: 0.0
+        34:
+          CH: 0.0
+          WKW: 0.0
+        35:
+          CH: 0.0
+          WKW: 0.0
+        36:
+          CH: 0.0
+          WKW: 0.0
+        37:
+          CH: 0.0
+          WKW: 0.0
+        38:
+          CH: 0.0
+          WKW: 0.0
+        39:
+          CH: 0.0
+          WKW: 0.0
+        40:
+          CH: 0.0
+          WKW: 0.0
+        41:
+          CH: 0.0
+          WKW: 0.0
+        42:
+          CH: 0.0
+          WKW: 0.0
+        43:
+          CH: 0.0
+          WKW: 0.0
+        44:
+          CH: 0.0
+          WKW: 0.0
+        45:
+          CH: 0.0
+          WKW: 0.0
+        46:
+          CH: 0.0
+          WKW: 0.0
+        47:
+          CH: 0.0
+          WKW: 0.0
+        48:
+          CH: 0.0
+          WKW: 0.0
+        49:
+          CH: 0.0
+          WKW: 0.0
+        50:
+          CH: 0.0
+          WKW: 0.0
+        51:
+          CH: 0.0
+          WKW: 0.0
+        52:
+          CH: 0.0
+          WKW: 0.0
+        53:
+          CH: 0.0
+          WKW: 0.0
+        54:
+          CH: 0.0
+          WKW: 0.0
+        55:
+          CH: 0.0
+          WKW: 0.0
+        56:
+          CH: 0.0
+          WKW: 0.0
+        57:
+          CH: 0.0
+          WKW: 0.0
+        58:
+          CH: 0.0
+          WKW: 0.0
+        59:
+          CH: 0.0
+          WKW: 0.0
+        60:
+          CH: 0.0
+          WKW: 0.0
+        61:
+          CH: 0.0
+          WKW: 0.0
+        62:
+          CH: 0.0
+          WKW: 0.0
+        63:
+          CH: 0.0
+          WKW: 0.0
+        64:
+          CH: 0.0
+          WKW: 0.0
+        65:
+          CH: 0.0
+          WKW: 0.0
+        66:
+          CH: 0.0
+          WKW: 0.0
+        67:
+          CH: 0.0
+          WKW: 0.0
+        68:
+          CH: 0.0
+          WKW: 0.0
+    3:
+    - - 2016-06-30 - CH-FCYatFHS
+      - Week#3 (Div 1) 2016-06-30 @ FHS
+      - Dual Meet
+      - 3
+      - *131
+      - *132
+      - FHS
+      - *133
+      - *134
+      - *135
+    4:
+    - - 2016-07-09 - CH-HCatCH
+      - Week#4 (Div 1 & 2) 2016-07-09 @ CH
+      - Dual Meet
+      - 4
+      - *136
+      - *137
+      - CH
+      - *138
+      - *139
+      - *140
+    5:
+    - - 2016-07-16 - CH-HHCCatHHCC
+      - Week#5 (Div 1) 2016-07-16 @ HHCC
+      - Dual Meet
+      - 5
+      - *141
+      - *142
+      - HHCC
+      - *143
+      - *144
+      - *145
+    6:
+    - - 2016-07-23 - FCY-HHCC-CHatHHCC
+      - Week#6 2016-07-23 Meet @ HHCC
+      - Divisional Meet
+      - 6
+      - *26
+      - *27
+      - HHCC
+      - *28
+      - *29
+      - *30
+    7:
+    - - 2016-07-30 - BAR-CH-DB-FCY-HHCC-HC-LL-PVYA-RSST-RMR-SR-VOU-WRST-WKWatLL
+      - Week#7 2016-07-30 All Star Meet @ LL
+      - All Star Meet
+      - 7
+      - *6
+      - *7
+      - LL
+      - *8
+      - *9
+      - *10
+WKW:
+  2016:
+    1:
+    - - 2016-06-18 - CH-WKWatCH
+      - Week#1 (Div 1 & 3) 2016-06-18 @ CH
+      - Dual Meet
+      - 1
+      - *146
+      - *147
+      - CH
+      - *148
+      - *149
+      - *150
+    2:
+    - - 2016-06-25 - WRST-WKWatWKW
+      - Week#2 (Div 3) 2016-06-25 @ WKW
+      - Dual Meet
+      - 2
+      - *151
+      - *152
+      - WKW
+      - *153
+      - *154
+      - *155
+    4:
+    - - 2016-07-09 - VOU-WKWatVOU
+      - Week#4 (Div 3) 2016-07-09 @ VOU
+      - Dual Meet
+      - 4
+      - *156
+      - *157
+      - VOU
+      - *158
+      - *159
+      - *160
+    5:
+    - - 2016-07-16 - LL-WKWatWKW
+      - Week#5 (Div 3) 2016-07-16 @ WKW
+      - Dual Meet
+      - 5
+      - *161
+      - *162
+      - WKW
+      - *163
+      - *164
+      - *165
+    6:
+    - - 2016-07-23 - LL-VOU-WRST-WKWatVOU
+      - Week#6 2016-07-23 Meet @ VOU
+      - Divisional Meet
+      - 6
+      - *41
+      - *42
+      - VOU
+      - *43
+      - *44
+      - *45
+    7:
+    - - 2016-07-30 - BAR-CH-DB-FCY-HHCC-HC-LL-PVYA-RSST-RMR-SR-VOU-WRST-WKWatLL
+      - Week#7 2016-07-30 All Star Meet @ LL
+      - All Star Meet
+      - 7
+      - *6
+      - *7
+      - LL
+      - *8
+      - *9
+      - *10
